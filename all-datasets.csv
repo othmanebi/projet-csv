@@ -1,0 +1,627 @@
+dataset_id;provider_id;x;y;coverage_id;dataset_name;licence;description;data_source_file;data_source_site;geo
+004256a7-96e2-4c1c-aee5-074288446290;OM9;5.4497;43.5283;fr-se;Aix-Marseille - Libebus;;Aix-Marseille - Libebus (open);http://tsvc.pilote4.cityway.fr/api/Export/v1/GetExportedDataFile?ExportFormat=Gtfs&OperatorCode=LIBEBUS;https://www.lepilote.com/fr/part6/le-reseau/80;43.5283,5.4497
+01e0f8d4-2859-4c56-afea-072b67a8147b;OEB;-122.320073;44.1732625;us-or;us-or_eugenebend;;Oregon - Eugene Bend;http://transitfeeds.com/p/tac-transportation/464/latest/download;http://oregon-gtfs.com/;44.1732625,-122.320073
+0213f219-b874-4bef-95d6-7dbdc48b6bcd;ODX;-1.051854;43.708754;fr-sw;Dax - Couralin;;Dax - Couralin (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_grand_dax-aggregated-gtfs.zip;https://www.trans-landes.fr/couralin/;43.708754,-1.051854
+03a3611b-2062-4970-9a7e-a5cda8399578;OPLKR0;19.9449799;50.0646501;pl;Krakow_MPK_GTFS;;MPK S.A. w Krakowie;http://gtfs.ztp.krakow.pl/GTFS_KRK_A.zip;;50.0646501,19.9449799
+044b8517-073d-4a18-bbf6-ac4186d78cdc;CFE;;;fr-se;Corsica ferries;;Corsica ferries;;https://www.corsica-ferries.fr/;
+05e4574f-8a1c-46ed-9850-0c7ecd3e8baf;OAK;4.8333;46.3;fr-ne;Mâcon - Tréma;;Mâcon - Tréma (open);https://www.data.gouv.fr/fr/datasets/r/3c34df58-72be-4856-a205-37ed3e1bcd51;https://www.trema-bus.fr/;46.3,4.8333
+096fae20-2bc0-4176-bee5-1434c62a4f23;MF2;-71.5337805;41.276516;us-ma;us-ma_blockisland;;Massachusetts - Block Island;https://transitfeeds.com/p/massdot/644/latest/download;https://www.massdot.state.ma.us/DevelopersData.aspx;41.276516,-71.5337805
+09948abf-9f35-403f-93e6-31e1ce5fdde6;ORX;4.96984559600865;45.7455437739949;fr-se;Lyon - Rhônexpress;;Lyon - Rhônexpress (open);https://download.data.grandlyon.com/files/rdata/rx_rhonexpress.rxtheorique/GTFS_RX.ZIP;https://data.grandlyon.com/;45.7455437739949,4.96984559600865
+0ab675d5-ebad-4a4e-be1d-e9d0872ae622;W16;0.156194;45.648926;fr-sw;Charente - Réseau interurbain 16;;Charente - Réseau interurbain 16 (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/charente-aggregated-gtfs.zip;https://transports.nouvelle-aquitaine.fr/cars-regionaux/reseau-et-horaires/charente;45.648926,0.156194
+0c910fc9-5f24-487e-a787-993831c57283;OES;-118.691072750241;37.0881251596419;us-ca;us-ca_easternsierra;;California - Eastern Sierra;http://data.trilliumtransit.com/gtfs/easternsierra-ca-us/easternsierra-ca-us.zip;http://data.trilliumtransit.com/gtfs/easternsierra-ca-us/;37.0881251596419,-118.691072750241
+0dceef16-87ad-49fb-a63f-5ae898e627df;ESM;-4.421265;36.721261;es;es_malaga_gtfs;;Spain - Malaga;;;36.721261,-4.421265
+0f3ee1d1-fd0e-401f-bea7-b6f2761aac0b;OEA;-8.17330410751449;53.2516240193159;ie;ie_buseireann;;Ireland - Buseireann;https://www.transportforireland.ie/transitData/google_transit_buseireann.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.2516240193159,-8.17330410751449
+0f4fc909-b7ec-4625-ae7f-42606106cdfc;OAS;-73.4429849984469;45.7865035679823;ca-qc;ca-qc_mrc_assomption;;Canada - L'Assomption;https://exo.quebec/xdata/mrclasso/google_transit.zip;https://exo.quebec/fr/a-propos/donnees-ouvertes;45.7865035679823,-73.4429849984469
+123e6456-b88c-4fc2-951c-fa7507ae5958;SUN;6.19333;48.67399;fr-ne;Nancy - SUB;;Nancy - SUB (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=LESUB;https://www.reseausub.fr/;48.67399,6.19333
+187346a6-30b3-468c-9daa-3c145d32d798;OEZ;3.28268;48.20065;fr-ne;Sens - Intercom;;Sens - Intercom (open);https://www.data.gouv.fr/fr/datasets/r/f31ada9f-4f5a-43d4-a73d-ff065b0c9d46;https://www.bus-intercom.com/;48.20065,3.28268
+1a83b41f-749e-41d4-a958-3212c1304fee;R26;4.892159;44.933166;fr-se;Drôme - Réseau interurbain 26;;Drôme - Réseau interurbain 26 (open);https://www.data.gouv.fr/fr/datasets/r/83294206-8459-479a-9657-f1c0e1a3f888;https://www.auvergnerhonealpes.fr/253-transport-interurbain-cars-region.htm;44.933166,4.892159
+1bfe91c5-e529-4d66-81fd-59278ccea544;OEU;-122.900401325555;44.8352703922553;us-or;us-or_eugeneportland;;Oregon - Eugene Portland;http://transitfeeds.com/p/city-2-city-shuttle/772/latest/download;http://oregon-gtfs.com/;44.8352703922553,-122.900401325555
+1d2f3028-9367-49fa-8881-a602053575b5;O48;3.581269;44.494203;fr-se;Lozere_gtfs;;Occitanie - Lozère;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/f5130900f9ebdd8dd738cfe12b92bb56/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;44.494203,3.581269
+23f1d583-c0e8-474a-aac9-091cfc6e0572;OTI;-123.39817404713;45.5666530044702;us-or;us-or_colombiacounty;;Oregon - Colombia County;http://transitfeeds.com/p/cc-rider/444/latest/download;http://oregon-gtfs.com/;45.5666530044702,-123.39817404713
+24077868-7378-4103-a84f-409e65163f32;OBO;-0.57961;44.837872;fr-sw;Bordeaux - TBM (Bus);;Bordeaux - TBM (Bus) (open);https://opendata.bordeaux-metropole.fr/api/datasets/1.0/offres-de-services-bus-tramway-gtfs/attachments/keolis_bus_zip/;https://opendata.bordeaux-metropole.fr;44.837872,-0.57961
+24cc1d23-e37b-4646-9f0a-656044824c30;OAV;16.3738;48.2082;at;at_vienna;;Vienna;http://www.wienerlinien.at/ogd_realtime/doku/ogd/gtfs/gtfs.zip;;48.2082,16.3738
+264d5dff-1d22-43b9-a8cb-4ac3a86062a1;OBC;2.1367095404926;41.3946995847525;es;es_tmb-barcelona;;Spain - Barcelona 1;;https://www.tmb.cat/en/about-tmb/tools-for-developers/how-to-get-data;41.3946995847525,2.1367095404926
+2701486d-1656-49c0-8e4c-b16b0008163f;OVT;-70.6481221247396;41.3880644238052;us-ma;us-ma_vta;;Massachusetts - VTA;http://data.trilliumtransit.com/gtfs/marthasvineyard-ma-us/marthasvineyard-ma-us.zip;https://www.massdot.state.ma.us/DevelopersData.aspx;41.3880644238052,-70.6481221247396
+27fd891a-c835-44f9-961b-b2118eba5d61;CTA;0.546535;46.818007;fr-sw;Châtellerault - TAC;;Châtellerault - TAC (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_grand_chatellerault-aggregated-gtfs.zip;https://bustac.com/;46.818007,0.546535
+294ce8e0-d8ef-4cbe-8206-a7404a236d2f;OZI;11.0747689670176;45.9834449614558;it;it_trento-urbano;;Italia - Trento 1;http://www.ttesercizio.it/opendata/google_transit_urbano_tte.zip;http://www.ttesercizio.it/TTEOpenData/;45.9834449614558,11.0747689670176
+2b4f2934-cd34-4361-b086-713f5c03021a;OVC;-122.522091745661;45.66404271965;us-or;us-or_ctranvancouver;;Oregon - Ctran Vancouver;;http://www.c-tran.com/about-c-tran/business/c-tran-gtfs-data;45.66404271965,-122.522091745661
+2d133e28-dd4b-4e90-8be2-46973019cf93;CTE;3.291619;49.656179;fr-ne;Chauny Tergnier - TACT (open);;Chauny-Tergnier - TACT (open);;https://www.bus-tact.fr/;49.656179,3.291619
+2ddb6978-3ef2-4335-9b14-7ab82ef4375b;ONP;14.268297;40.851266;it;it_naples;;Italia - Naples;;http://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/29233;40.851266,14.268297
+2f0c7a23-2d51-4750-90b3-82d3baff68a3;OSO;-73.9023062508192;45.3431526158575;ca-qc;ca-qc_cit_sud-ouest;;Canada - Sud Ouest;https://exo.quebec/xdata/citso/google_transit.zip;https://exo.quebec/fr/a-propos/donnees-ouvertes;45.3431526158575,-73.9023062508192
+2f96fd00-ea6a-4e64-9bb9-2b579ff656cb;E52;-17.8537205992089;28.6839749243901;es;es_lapalma;;Spain - La Palma;http://www.files.opendatalapalma.es/google_transit.zip;http://www.google.com/url?q=http%3A%2F%2Fwww.opendatacanarias.es%2Fdatos%2Fdataset%2Fcabildo-de-la-palma-archivos-gtfs&sa=D&sntz=1&usg=AFQjCNHiA6fsZL28rJPvPFC0nRO3_jYolQ;28.6839749243901,-17.8537205992089
+31659869-0086-4976-8ac6-533a6bf22b57;ORZ;2.576002;44.349581;fr-sw;Rodez - Agglobus;;Rodez - Agglobus (open);https://www.data.gouv.fr/fr/datasets/r/fc05850e-b62d-4ce7-9a35-83aba02b6b5b;https://transport.data.gouv.fr/;44.349581,2.576002
+37f30c09-3ac4-4bdd-98e8-b52459d1b76a;WAN;7.127903;43.581345;fr-se;Antibes - Envibus;;Antibes - Envibus (open);;https://transport.data.gouv.fr;43.581345,7.127903
+3aa3b58b-a945-49f2-a397-a42f4a34f3cd;E29;-2.03097983969463;43.2445796553089;es;es_tsst;;Spain - Tsst;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_tsst/google_transit.zip;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi;43.2445796553089,-2.03097983969463
+3b0172db-ba4c-44d3-b4f7-a0508898f4cd;OGC;1.441989;44.4475229;fr-sw;Grand Cahors - Evidence;;Grand Cahors - Evidence (open);https://www.data.gouv.fr/fr/datasets/r/b7e20eba-4b03-4e0b-8124-d3ed61ea88d8;https://transport.data.gouv.fr/;44.4475229,1.441989
+3b5a1ab1-8464-484c-ad8c-8a0ee7df09b4;R73;5.921255;45.568437;fr-se;Savoie - Réseau interurbain 73;;Savoie - Réseau interurbain 73 (open);https://www.data.gouv.fr/fr/datasets/r/7d940ea0-bb38-4aaf-aaf1-b76bdac55f38;https://www.auvergnerhonealpes.fr/253-transport-interurbain-cars-region.htm;45.568437,5.921255
+3bb47c9a-db0b-4180-b77c-10bf793af43f;OYS;-9.30306029582225;53.2599965470729;ie;ie_lallycoaches;;Ireland - Lally Coaches;https://www.transportforireland.ie/transitData/google_transit_lallycoach.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.2599965470729,-9.30306029582225
+3c1f269c-e54a-43a7-9315-8c8ce1896c6a;WLW;5.761773;49.519919;fr-ne;longwy_open_gtfs;;Longwy - TGL (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=TGL;http://www.tgl-longwy.fr/;49.519919,5.761773
+46420cc9-c0cd-4a8b-bae2-402894e3b10f;R01;5.225306;46.205249;fr-se;Ain - Réseau interurbain 01;;Ain - Réseau interurbain 01 (open);https://www.data.gouv.fr/fr/datasets/r/6bf922eb-0ae4-495a-a40a-2f9011075cb4;https://www.auvergnerhonealpes.fr/253-transport-interurbain-cars-region.htm;46.205249,5.225306
+46741815-aca1-4bb0-ac4b-1621aa52d7f6;UKY;;;uk;uk_yorkshire_gtfs;;United Kingdom - Yorkshire (region est);https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/yorkshire/;;
+490e7e18-da4c-4430-a917-871dec985a45;OTY;-123.060462757517;40.6940210715919;us-ca;us-ca_trinity;;California - Trinity;http://data.trilliumtransit.com/gtfs/trinity-ca-us/trinity-ca-us.zip;http://data.trilliumtransit.com/gtfs/trinity-ca-us/;40.6940210715919,-123.060462757517
+4a686db9-f29c-45a9-875f-af1071367c87;DMO;-119.881453075813;37.0919241688824;us-ca;us-ca_madera;;California - Madera;http://data.trilliumtransit.com/gtfs/cityofmadera-ca-us/cityofmadera-ca-us.zip;http://data.trilliumtransit.com/gtfs/madera-ca-us/;37.0919241688824,-119.881453075813
+4b4345d2-343c-4058-ac2b-9caa7d81d7f0;OPJ;-6.71991447071748;53.2025270855601;ie;ie_pjmartley;;Ireland - PJ Martley;https://www.transportforireland.ie/transitData/google_transit_pjmartley.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.2025270855601,-6.71991447071748
+4f065812-b972-4e2d-832f-4c1440321893;OHG;4.363073;48.956682;fr-ne;fr_chalons-en-champagne_open_gtfs;;Chalons-en-Champagne - SITAC;https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=CEC;https://www.sitac.net/;48.956682,4.363073
+52e26342-9695-4d32-aa70-78c8f8c34d5b;OHT;172.576538808025;-43.4928605813205;nz;nz_christchurch;;New Zealand - Christchurch;http://www.metroinfo.co.nz/Documents/gtfs.zip;http://www.metroinfo.co.nz/;-43.4928605813205,172.576538808025
+52f32423-74af-47a2-9220-2a727e0d326d;OCZ;5.921255;45.568437;fr-se;Chambery - Synchro;;Chambery - Synchro (open);;https://donnees.grandchambery.fr/;45.568437,5.921255
+531741e0-f60c-4c60-9ce2-76061d429572;RNV;8.54568978312685;49.4659119038459;de;Mannheim;;Mannheim;https://opendata.rnv-online.de/node/132/download;http://transitfeeds.com/l/168-germany;49.4659119038459,8.54568978312685
+55970c3e-8552-4613-adba-99c6e359411a;E31;-1.87078128803333;43.3006037681655;es;es_oiartzun;;Spain - Oiartzun;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_oiartzun/google_transit.zip;;43.3006037681655,-1.87078128803333
+576a1e0e-c354-42e8-aae0-967d3afb53e2;OBX;-0.57961;44.837872;fr-sw;Bordeaux - TBM (Tram);;Bordeaux - TBM (Tram) (open);https://opendata.bordeaux-metropole.fr/api/datasets/1.0/offres-de-services-bus-tramway-gtfs/attachments/keolis_tram_zip;https://opendata.bordeaux-metropole.fr;44.837872,-0.57961
+583d5cc6-473d-46a3-b310-2e58d954a67c;OPC;8.7286059140609;45.8588913712451;it;it_varese;;Italia - Varese;https://transitfeeds.com/p/autolinee-varesine/661/latest/download;http://www.ctpi.it/;45.8588913712451,8.7286059140609
+58608df3-e045-4d55-84a3-1c0dfc002882;STI;-74.1090952451444;40.6328722273518;demo;us-ny_statenisland;;New York - Staten Island;;http://www.mta.info/;40.6328722273518,-74.1090952451444
+5ec0f405-70e6-4b50-abd3-f8edc975390d;O65;0.1494988;43.0193924;fr-sw;hautes-pyrenees_gtfs_open;;Hautes-Pyrénées (open);https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/e3fc1c6a1e09b69caa22fd7d2a0a4462/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;43.0193924,0.1494988
+5ee844dc-a71f-46b1-ab8b-af517791845c;OPLSLS;17.0285;54.4641;pl;slupsk_gtfs;;Slupsk;https://przyjazdy.pl/latest/slupsk.zip?navitia+kisio;https://www.gtfs.pl/;54.4641,17.0285
+61457fe9-99d6-44cd-bc10-d2def5198fa2;ORU;7.052587;48.732663;fr-ne;Sarrebourg - iSibus;;Sarrebourg - iSibus (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=ISIBUS;https://www.isibus.fr/;48.732663,7.052587
+62238456-a557-471f-9d69-6312f7723d67;OBZ;-2.932643;48.202047;fr-nw;Région Bretagne - BreizhGo;;Bretagne - MobiBreizh (open);https://exs.breizgo.cityway.fr/ftp/GTFS/MOBIBREIZHBRET.gtfs.zip;https://breizh.opendatasoft.com/explore/dataset/base-de-donnees-multimodale-transports-publics-en-bretagne-mobibreizh/information/;48.202047,-2.932643
+62f94e1e-fc2c-4dae-9bc3-5adc8dcad73a;E37;-1.97250736933053;43.2676362366461;es;es_hernani;;Spain - Hernani;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_hernani/google_transit.zip;;43.2676362366461,-1.97250736933053
+6417c1c8-8d88-43d4-ab9f-61247cdd2a80;WSV;6.705793;49.104408;fr-ne;Saint Avold - Transabold;;Saint Avold - Transabold (open);https://zenbus.net/gtfs/static/download.zip?dataset=transavold-stavold;https://www.transavold.com/;49.104408,6.705793
+64a494fb-defb-4594-8d35-a97bf71cf10a;OMX;1.354082;44.019513;fr-sw;Montauban - SEMTM;;Montauban - TM (open);https://www.data.gouv.fr/fr/datasets/r/fd1b8e77-6f6d-44de-8610-b02094183661;https://www.montm.com/le-bus-tm/;44.019513,1.354082
+64df2d80-cd45-4ecc-a659-dfe3924d93c6;MF5;-70.186969;41.466488;us-ma;us-ma_hyline;;Massachusetts - Hyline;http://data.trilliumtransit.com/gtfs/hylinecruises-ma-us/hylinecruises-ma-us.zip;https://www.massdot.state.ma.us/DevelopersData.aspx;41.466488,-70.186969
+66ea6184-54fd-4b3e-8e3e-9289d974ea29;OPI;2.8948332;42.6886591;fr-se;Perpignan - Sankeo;;Perpignan - Sankeo (open);;https://transport.data.gouv.fr/datasets/211007/;42.6886591,2.8948332
+6942a984-8f29-4241-bc45-975d20cfba5a;BLD;5.162258;48.771335;fr-ne;Bar le Duc - Tub;;Bar le Duc - Tub (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=TUB;https://www.bus-tub.com/;48.771335,5.162258
+694b5717-f59b-4819-b263-9afbb17375f4;BIG;0.150528;43.068116;fr-se;Navettes Bagnères-de-Bigorre - La Mongie;;Navettes Bagnères-de-Bigorre - La Mongie  (open);https://zenbus.net/gtfs/static/download.zip?dataset=bigorre-mongie;https://www.ville-bagneresdebigorre.fr;43.068116,0.150528
+6997ef7d-f184-44a2-bf91-12cebdbb83d7;E19;-1.96632645413695;43.2898473473502;es;es_areizaga;;Spain - Areizaga;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_areizaga/google_transit.zip;;43.2898473473502,-1.96632645413695
+6a240a64-8179-416c-82df-faec35c63528;OCQ;4.4278;46.805351;fr-ne;Creusot-Montceau - MonRézo;;Creusot-Montceau - MonRézo (open);https://www.data.gouv.fr/fr/datasets/r/6f4c8566-c626-49a0-8bbd-758e2864532e;https://www.monrezo.org/;46.805351,4.4278
+6a2aa495-e3f6-4d77-8a07-b1b822d7e13d;OSI;-122.69346661165;45.5517878333009;us-or;us-or_swanisland;;Oregon - Swan Island;http://transitfeeds.com/p/swan-island-evening-shuttle/484/latest/download;http://oregon-gtfs.com/;45.5517878333009,-122.69346661165
+6a58451c-fa57-4e99-b758-b0a7d5e42e96;OPLPRM;22.7678;49.7839;pl;przemysl_gtfs;;Przemysl;https://przyjazdy.pl/latest/przemysl.zip?navitia+kisio;https://www.gtfs.pl/;49.7839,22.7678
+6bf48ee6-5366-45d5-8ef3-e972c1e5ea88;OUN;2.6019912;46.3415466;fr-se;Montluçon - Maelis;;Montluçon - Maelis;https://www.data.gouv.fr/fr/datasets/r/9d38fdb9-0e19-4a38-a22a-2f91f10da415;https://transport.data.gouv.fr/datasets/transports-en-commun-du-reseau-maelis-montlucon-communaute/;46.3415466,2.6019912
+6c3763c0-0760-4d76-a6ad-fcd751be90c4;GAP;2.1486413;43.9250853;fr-sw;Grand Albigeois - Transport Périurbains;;Grand Albigeois - Transport Périurbains (open);https://www.data.gouv.fr/fr/datasets/r/79bc8313-3499-4bb3-a809-a8d80b44000a;http://transport.data.gouv.fr/;43.9250853,2.1486413
+6c4a9d9a-d12d-457d-8f3f-1e31e9cce075;OPX;6.329583;46.140583;fr-se;Bonneville - ProximITI;;Bonneville - ProximITI (open);;https://www.proximiti.fr/;46.140583,6.329583
+6fc11d17-130c-4f51-9d4a-a7d9f4745c6a;OPLELK;22.364663;53.828053;pl;pl_elk_gtfs;;Elk;https://mkuran.pl/gtfs/elk.zip;https://mkuran.pl/gtfs/;53.828053,22.364663
+6fe38140-582e-4b92-b39e-660be288e8f8;W87;1.260345;45.826707;fr-sw;Haute-Vienne - Réseau Interurbain 87;;Haute-Vienne - Réseau Interurbain 87 (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/haute_vienne-aggregated-gtfs.zip;https://transports.nouvelle-aquitaine.fr/cars-regionaux/reseau-et-horaires/haute-vienne;45.826707,1.260345
+701d9e7c-ff78-4250-a996-0e5df0cbb0b8;OCT;-120.597151478041;38.170533426023;us-ca;us-ca_calaveras;;California - Calaveras;http://data.trilliumtransit.com/gtfs/calaveras-ca-us/calaveras-ca-us.zip;http://data.trilliumtransit.com/gtfs/calaveras-ca-us/;38.170533426023,-120.597151478041
+7187a683-d943-4e9a-8037-9fd1c9cd95e7;O46;1.6760691;44.5379358;fr-sw;Lot_gtfs_open;;Occitanie - Lot;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/6e93b9bb7cd97ebea6b083f1be1da6e8/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;44.5379358,1.6760691
+71aaf614-7eb1-4916-9c38-84dee5f51e68;OPLTRM;18.5407;54.392;pl;trojmiescie_gtfs;;Trojmiescie;https://przyjazdy.pl/latest/skmt.zip?navitia+kisio;https://www.gtfs.pl/;54.392,18.5407
+78538670-e08f-42e6-a846-8ff4b6ea5c04;W19;1.771627;45.265745;fr-sw;Corrèze - Réseau Interurbain 19;;Corrèze - Réseau Interurbain 19 (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/correze-aggregated-gtfs.zip;https://transports.nouvelle-aquitaine.fr/cars-regionaux/reseau-et-horaires/correze;45.265745,1.771627
+7b880071-3f75-4d03-886f-0c50c22e277a;OPV;-72.5512652691163;42.2401773931311;us-ma;us-ma_pvta;;Massachusetts - Pioneer Valley;http://www.pvta.com/g_trans/google_transit.zip;https://www.massdot.state.ma.us/DevelopersData.aspx;42.2401773931311,-72.5512652691163
+7c29f75d-a14a-4d83-aa04-8cd4461a381e;OPLCRZ;19.4002;50.1346;pl;chrzanow_gtfs;;Chrzanow;https://przyjazdy.pl/latest/chrzanow.zip?navitia+kisio;https://www.gtfs.pl/;50.1346,19.4002
+7cd6d99f-5194-427c-b453-e6fe2990e542;OIR;-7.78311842486519;53.1965492027426;ie;ie_irishrail;;Ireland - Irish Rail;https://www.transportforireland.ie/transitData/google_transit_irishrail.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.1965492027426,-7.78311842486519
+83022c89-afd7-48c4-a126-4861e8661f57;OJE;-123.528425895241;47.796026405796;us-wa;us-wa_jefferson-transit;;Washington - Jefferson Transit;http://www.gtfs-data-exchange.com/agency/jefferson-transit-authority/latest.zip;;47.796026405796,-123.528425895241
+83cf264f-e793-4e1e-bf1c-959025f0e6fc;MF6;-70.5807435;41.501214;us-ma;us-ma_patriots;;Massachusetts - Patriots;http://data.trilliumtransit.com/gtfs/patriotpartyboats-ma-us/patriotpartyboats-ma-us.zip;https://www.massdot.state.ma.us/DevelopersData.aspx;41.501214,-70.5807435
+8470809e-c70f-4831-bfeb-d99fb282e754;O71;4.832778;46.303321;fr-ne;Saône et Loir - Mobigo;;Saône et Loire - Mobigo (open);https://exs.mobigo.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=UT71;https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/;46.303321,4.832778
+8643e281-ec15-45b1-ac82-ae388a8cf4cd;ITP;;;it;it_pmt_gtfs;;Italie - PMT;https://usbshare.agenziatpl.it/index.php/s/XAtC9tFnjem8JRC/download/2022-02-02_PMT.zip;https://usbshare.agenziatpl.it/index.php/s/NR9Rsf4DmrAFRnA/download/2021-10-26_PMT.zip;
+88289801-e564-4c30-ad76-25da5e457f10;OVE;12.1466581892458;45.3632407423733;it;it_venezia-automobilistico;;Italia - Venezia 1;;http://dati.venezia.it/?q=content/actv-general-transit-feed-specification-gtfs;45.3632407423733,12.1466581892458
+88cad96f-b1ec-4adb-a685-164c777a2f73;E45;-3.689073;40.455274;es;es_crtm-emt;;Spain - CRTM EMT;;http://datos.crtm.es/;40.455274,-3.689073
+89efdf9d-2283-4c53-af3f-bbc93c697b97;OCZPRA;14.422;50.0755;cz;cz_prague_GTFS;;Prague;http://data.pid.cz/PID_GTFS.zip;http://opendata.iprpraha.cz/;50.0755,14.422
+8a94d48b-d7ae-4e17-8b58-38dd69e570a0;OLX;6.1319346;49.611621;lu;lu_luxembourg_GTFS;;Luxembourg;https://transitfeeds.com/p/openov/621/latest/download;https://data.public.lu/en/datasets/horaires-et-arrets-des-transport-publics/;49.611621,6.1319346
+8df30a17-3152-4948-97ee-834f88cb2f82;TUM;10.495868;33.339922;tu;tu_medenine;;Tunisie - Medenine;https://transitfeeds.com/p/srtmedenine/1205/latest/download;;33.339922,10.495868
+9370d1c8-91e0-4db7-aed4-5d3e992f0903;OWO;-122.860800963511;45.147211410857;us-or;us-or_woodburntransit;;Oregon - Woodburn Transit;http://transitfeeds.com/p/woodburn-transit-service/489/latest/download;http://oregon-gtfs.com/;45.147211410857,-122.860800963511
+937ba020-5f1a-426d-8f27-285ba69ec723;OAR;-120.953479790763;38.4507661346988;us-ca;us-ca_amador;;California - Amador;http://data.trilliumtransit.com/gtfs/amador-ca-us/amador-ca-us.zip;http://data.trilliumtransit.com/gtfs/amador-ca-us/;38.4507661346988,-120.953479790763
+9495dd3d-98c6-4136-abbb-8e437950b210;AGG;6.737053;43.433106;fr-se;Fréjus - Agglobus (Open);;Fréjus - Agglobus (Open);https://trouver.datasud.fr/dataset/0349f8c5-b8e5-4aed-ad03-d891c24e0b0d/resource/10918352-935e-4f9d-8188-ec8cd435c5ae/download/file;https://transport.data.gouv.fr/;43.433106,6.737053
+94991155-49f9-4b0e-b6af-22c5cba5f695;OND;-6.959342;54.258547;ie;ie_leonard;;Ireland - Leonard;https://www.transportforireland.ie/transitData/google_transit_leonard.zip;http://www.transportforireland.ie/transitData/PT_Data.html;54.258547,-6.959342
+94fb2eb3-b736-445d-ab70-0eef6c62e32c;OESVIT;-2.683333;42.849998;es;Vitoria gtfs;;Spain - Vitoria;https://www.vitoria-gasteiz.org/we001/http/vgTransit/google_transit.zip;https://www.vitoria-gasteiz.org/;42.849998,-2.683333
+98410626-4d2c-45ac-b656-01a56fe93a46;OOD;-121.910161489089;45.5730356068986;us-or;us-or_colombiaarea;;Oregon - Colombia Area;http://transitfeeds.com/p/columbia-area-transit/443/latest/download;http://oregon-gtfs.com/;45.5730356068986,-121.910161489089
+99e65b44-311e-4633-89ab-5e4099d7c5b9;O58;3.157633;46.987863;fr-ne;Nièvre - Mobigo;;Nièvre - Mobigo (open);https://exs.mobigo.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=UT58;https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/;46.987863,3.157633
+9a5e39d7-ff9c-4d35-8da8-82e6f5a91143;CLE;3.086668;45.779883;fr-se;Clermont-Ferrand - T2C;;Clermont-Ferrand - T2C (open);https://www.data.gouv.fr/fr/datasets/r/cdb5cde9-a6f4-4805-a66b-1d983a1891d6;https://opendata.clermontmetropole.eu;45.779883,3.086668
+9b296ed0-c462-4ea0-bf75-816833402118;OWI;-122.837435491994;45.1780550570843;us-or;us-or_southmetroarea;;Oregon - South Metro Area;http://data.trilliumtransit.com/gtfs/wilsonville-or-us/wilsonville-or-us.zip;http://oregon-gtfs.com/;45.1780550570843,-122.837435491994
+9bf93b43-a1e2-4448-869f-88871f3c87c2;Z05;6.079699;44.55893;fr-se;Hautes-Alpes - ZOU;;Hautes-Alpes - ZOU (open);https://trouver.datasud.fr/dataset/44187c20-e037-4733-950a-b4463d314b90/resource/3c16fdde-74a7-4f51-a8a5-b43efa298dac/download/gtfs_05.zip;https://trouver.datasud.fr/dataset/lignes-autocars-interurbains-regionsud;44.55893,6.079699
+9d3d6aa6-f635-4b22-9ea8-3217473bf257;MAC;-1.304435;43.661381;fr-sw;Maremne Adour Côte-Sud - YEGO;;Maremne Adour Côte-Sud - YEGO (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/macs-aggregated-gtfs.zip;https://www.mobi-macs.org/yego.html;43.661381,-1.304435
+9de8ebfe-3287-4caf-b36b-c971d088540f;E46;-3.53048958869484;40.4007175258236;es;es_crtm-urbanos;;Spain - CRTM Urbanos;;http://datos.crtm.es/;40.4007175258236,-3.53048958869484
+9e02c7fe-249f-45e3-a4de-0df778ca6d57;D13;5.010351;43.602943;fr-se;Bouches-du-Rhône - Cartreize;;Bouches-du-Rhône - Cartreize (open);http://tsvc.pilote4.cityway.fr/api/Export/v1/GetExportedDataFile?ExportFormat=Gtfs&OperatorCode=CG13;https://www.lepilote.com/fr/part10/le-reseau/80;43.602943,5.010351
+a0311c99-dd07-4e81-be9d-d09293f01e09;OTM;146.813352415531;-42.1912588020366;au;au_tasmania_hobart;;Australia - Tasmania Hobart;http://www.metrotas.com.au/wp-content/uploads/transit/Hobart/google_transit.zip;http://www.metrotas.com.au/community/gtfs/;-42.1912588020366,146.813352415531
+a3536982-5edc-4c15-86be-81fd7a9cbc80;Z04;6.235296;44.093542;fr-se;Alpes de Hautes Provence - ZOU;;Alpes de Hautes Provence - ZOU (open);https://trouver.datasud.fr/dataset/44187c20-e037-4733-950a-b4463d314b90/resource/17ee7996-69ca-4d0e-aab5-577df6a30988/download/gtfs_04.zip;https://trouver.datasud.fr/dataset/lignes-autocars-interurbains-regionsud;44.093542,6.235296
+a38bce73-c481-4a1e-8d45-362181aa2dd7;O11;2.3813621;43.0724667;fr-se;Aude - liO;;Occitanie - Aude - liO (open);https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/fd5be30c1f8b24866caf14e858adc03e/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;43.0724667,2.3813621
+a4125a7e-a855-48da-aa18-8d55b4289759;OJJ;-7.544472214581;52.9671986973743;ie;ie_jjkavanagh;;Ireland - JJ Kavanagh;https://www.transportforireland.ie/transitData/google_transit_jjkavanagh.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.9671986973743,-7.544472214581
+a47dfb08-47a1-4adb-8a85-56169ac95fe4;UKL;-0.127758;51.507351;uk;uk_london_gtfs;;London;https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/london/;;51.507351,-0.127758
+aa5d9c2a-28e6-43e7-8d9f-c7db3781d2a3;SNCD;;;demo;SNCF_démo_gtfs;;SNCF Démo;;;
+01491c28-0698-46ff-8ae2-698e0ce568e4;OTQ;4.389863;44.620909;fr-se;Aubenas - Toutenbus;;Aubenas - Toutenbus (open);https://zenbus.net/gtfs/static/download.zip?dataset=toutenbus;https://www.toutenbus.fr;44.620909,4.389863
+aa8df0a8-7734-438e-9d34-b993bd1de83e;OOA;-7.48803251256962;52.8384967271506;ie;ie_manda;;Ireland - Manda;https://www.transportforireland.ie/transitData/google_transit_manda.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.8384967271506,-7.48803251256962
+014ab388-a57d-4d84-ad55-65fe7729a620;E17;-2.48214082813472;43.0202627815907;es;es_union;;Spain - La Union;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/La_Union/google_transit.zip;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi;43.0202627815907,-2.48214082813472
+ab0d2726-138c-457b-ac71-fbba13945450;BEL;5.331549;47.865505;fr-ne;Langres - Bus Etoile;;Langres - Bus Etoile (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=LAN;https://www.bus-etoile.fr/;47.865505,5.331549
+0184767e-45d5-4704-87bd-a8e458d39ece;STE;2.3522;48.8566;fr-ne;SNCF TER Open Data;;SNCF TER Open Data;https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip;https://ressources.data.sncf.com/;48.8566,2.3522
+adf0800d-2809-42d9-b126-fabbc2f23cfc;R42;4.387757;45.439648;fr-se;Loire - Réseau interurbain 42;;Loire - Réseau interurbain 42 (open);;https://www.auvergnerhonealpes.fr/253-transport-interurbain-cars-region.htm;45.439648,4.387757
+04b99a18-a696-4cd3-8481-60a38de59e80;OBF;13.403805;52.520009;de;de_Berlin2;;Berlin - Deutsche Bahn;https://github.com/fredlockheed/db-fv-gtfs/releases/download/2017.0.0/2017.zip;http://data.deutschebahn.com/;52.520009,13.403805
+b102de74-14a4-41f2-a6eb-dad2f9083ca7;OLY;-122.685531405344;47.0738710388065;us-wa;us-wa_intercitytransit;;Washington - Intercity Transit;;;47.0738710388065,-122.685531405344
+053d5d93-042a-44c9-b921-878a9c5294d0;E22;-1.87548263133815;43.3301956050574;es;es_ekialdebus;;Spain - Ekialdebus;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_ekialdebus/google_transit.zip;;43.3301956050574,-1.87548263133815
+b59b202d-9e86-47f9-9a13-4d25a9637c35;F88;6.450279;48.17519;fr-ne;Réseau interurbain Vosges - Fluo;;Réseau interurbain Vosges - Fluo (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=LIVO;https://transport.data.gouv.fr/;48.17519,6.450279
+06546477-bfb7-435c-9ece-ccc91ce2ee9f;CLI;;;fr-se;Ferry Corsica Linea;;Ferry Corsica Linea (Marseille - Corse);;https://www.corsicalinea.com/;
+b8d85f93-1297-4af7-87ef-13211a822f11;ONX;-73.6260033052148;40.724358595087;us-ny;us-ny_nassau;;New York - Nassau;https://transitfeeds.com/p/nassau-inter-county-express/268/latest/download;http://www.nicebus.com/;40.724358595087,-73.6260033052148
+069f37f4-d528-41fc-a7a7-aa37a93ad324;UWM;;;uk;uk_WestMidlands;;UK - West Midlands;https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/west_midlands/;;
+ba00f0af-6c4a-4f56-a917-ab2e92b8db44;OPLGZK;21.766734;54.036405;pl;pl_gizycko_gtfs;;Gizycko;https://mkuran.pl/gtfs/gizycko.zip;https://mkuran.pl/gtfs/;54.036405,21.766734
+07d21f24-4b91-4608-a994-526c022f0047;ODM;-74.0611117113233;45.516216378044;ca-qc;ca-qc_mrc_deux-montages;;Canada - Deux Montagnes;https://exo.quebec/xdata/mrclm/google_transit.zip;https://exo.quebec/fr/a-propos/donnees-ouvertes;45.516216378044,-74.0611117113233
+bfcdd02a-a991-4b32-85db-c4cdab19e07f;OPB;-0.371086;43.295041;fr-sw;Pau - Idelis (open);;Pau - Idelis (open);https://data.idelis.fr/explore/dataset/fichier-des-donnees-theoriques-du-reseau-idelis-au-format-gtfs/files/400d7da94eaacb5e52c612f8ac28e420/download/;https://data.idelis.fr/pages/accueil-data-idelis/;43.295041,-0.371086
+07dcbb5a-d567-4b4d-9ac1-defb04f7cf20;OMR;-116.33986808439;34.0844948167502;us-ca;us-ca_morongobasin;;California - Morongob Bassin;http://data.trilliumtransit.com/gtfs/morongobasin-ca-us/morongobasin-ca-us.zip;http://data.trilliumtransit.com/gtfs/morongobasin-ca-us/;34.0844948167502,-116.33986808439
+c0be4d82-e252-473e-b752-ad1b50ffd47b;OUSNYPTC;-75.08790315384616;39.91439961538462;us-ny;us-ny_patco_gtfs;;Port Authority Transit Corporation (PATCO);;http://www.ridepatco.org/developers/PortAuthorityTransitCorporation.zip;39.91439961538462,-75.08790315384616
+083841e8-52c0-4cfc-b958-49b910ce79da;OWA;-122.745943255093;48.0757772040114;us-wa;us-wa_wsdot;;Washington - Wsdot;https://business.wsdot.wa.gov/Transit/csv_files/wsf/google_transit.zip;;48.0757772040114,-122.745943255093
+c0c94dea-1f8e-4955-acef-6cdb4d0c8af2;OVI;-116.432693321892;34.701945140019;us-ca;us-ca_victorville;;California - Victorville;http://data.trilliumtransit.com/gtfs/victorville-ca-us/victorville-ca-us.zip;http://data.trilliumtransit.com/gtfs/victorville-ca-us/;34.701945140019,-116.432693321892
+0b8a02e4-a6ba-4a18-8c50-24a9a380ab3d;OPM;24.0363759436562;61.6667165384832;fi;fi_tampere;;Finland - Tampere;http://data.itsfactory.fi/journeys/files/gtfs/latest/gtfs_tampere.zip;http://data.itsfactory.fi/;61.6667165384832,24.0363759436562
+0167429c-bc5b-4e39-a62c-a1d9e608e163;E28;-2.07609650896544;43.1243202189798;es;es_tolosaldea;;Spain - Tolosaldea;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_tolosaldea/google_transit.zip;;43.1243202189798,-2.07609650896544
+c18579fb-e809-4bf7-9ac8-2abb703260da;OUU;25.5474980130901;65.0358252171659;fi;fi_oulu;;Finland - Oulu;https://assets.oulunliikenne.fi/gtfs_google/google_transit.zip;https://www.opendata.fi/data/en/dataset;65.0358252171659,25.5474980130901
+0b9e8701-c04b-45d1-a7d7-63b551cedd8c;SOI;3.32856;49.383765;fr-ne;Soissons - SITUS;;Soissons - SITUS (open);;https://mobilinfos.org/;49.383765,3.32856
+022f08b0-dc69-4ebc-8ef3-c377c483322a;OM7;5.482675;43.336834;fr-se;Marseille - Le bus des Collines (Transmétropole);;Marseille - Le bus des Collines (Transmétropole) (open);http://tsvc.pilote4.cityway.fr/api/Export/v1/GetExportedDataFile?ExportFormat=Gtfs&OperatorCode=BUSDESCOLLINES;https://www.lepilote.com/fr/part21/le-reseau/80;43.336834,5.482675
+c3dd6cea-49f3-479d-93ff-eaa925adf7b5;VLS;3.523916;50.357868;fr-ne;Valenciennes - Transvilles;;Valenciennes - Transvilles (open);https://ratpdev-mosaic-prod-bucket-raw.s3-eu-west-1.amazonaws.com/133/exports/1/gtfs.zip;https://www.transvilles.com/;50.357868,3.523916
+0d662d57-2d78-4f51-8ac3-5e64667dac99;OPLBSW;15.5657;51.2659;pl;boleslawiec_gtfs;;Boleslawiec;https://przyjazdy.pl/latest/boleslawiec.zip?navitia+kisio;https://www.gtfs.pl/;51.2659,15.5657
+037f5fd9-bf75-4fdc-8bcb-bf23c48e2030;ONI;-6.25748314889694;53.3695962529862;ie;ie_nitelink;;Ireland - Nitelink;https://www.transportforireland.ie/transitData/google_transit_nitelink.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.3695962529862,-6.25748314889694
+c6009a6b-50dd-406f-a809-8dc97e2cd15b;F08;4.719371;49.773558;fr-ne;Réseau interurbain Ardennes - Fluo;;Réseau interurbain Ardennes - Fluo (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=ARDENNES;https://transport.data.gouv.fr;49.773558,4.719371
+0ec54d3f-0bba-4f63-b66d-16f57b387dd1;OFC;2.032871;44.608288;fr-sw;Figeac - Bus;;Figeac - Bus (open);https://zenbus.net/gtfs/static/download.zip?dataset=figeac;https://ville-figeac.fr/je-suis-figeacois/vie-pratique/le-reseau-bus-informations;44.608288,2.032871
+05ce32c6-da31-4680-8f61-bd3b4ed87c60;WCN;1.908845;47.902761;fr-nw;Centre - JVMalin;;Région Centre - JVMalin (open);https://data.centrevaldeloire.fr/api/v2/catalog/datasets/jvmalin-point-dacces-national/files/e4c49416b6a28d91287b6c81b8ba0569;https://transport.data.gouv.fr/;47.902761,1.908845
+c9f62927-66a5-4653-8ce2-c56b05c8f735;P53;-0.773765;48.070912;fr-nw;Aleop - Mayenne;;Aleop - Mayenne (open);https://donnees.paysdelaloire.fr/data/pdl53.zip;https://data.paysdelaloire.fr;48.070912,-0.773765
+0eed2e8d-739a-48f6-8c85-6b145b6c9118;OMW;-71.3143718155462;42.2332439300965;us-ma;us-ma_mwrta;;Massachusetts - Metrowest;;;42.2332439300965,-71.3143718155462
+05ea8afb-9a16-4609-bd16-62230ac5fc8e;OS1;7.335888;47.750839;fr-ne;mulhouse_gtfs;;Soléa - Mulhouse;https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=SITRAM;https://data.mulhouse-alsace.fr;47.750839,7.335888
+ca0afe51-b0ac-4583-990c-1ade7a8e4b12;OAJ;8.738635;41.919229;fr-se;Ajaccio - Muvitarra;;Ajaccio - Muvitarra;;https://opendata.ca-ajaccien.corsica/reseau-tca-arret-bus-2-2-2/;41.919229,8.738635
+14146281-20ca-4a7f-af02-6563f2f34752;OJO;-8.62180598919797;52.3790694639793;ie;ie_josfoley;;Ireland - Joseph Foley;https://www.transportforireland.ie/transitData/google_transit_josfoley.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.3790694639793,-8.62180598919797
+0ad2a020-91a9-41a0-a06b-e0d826d406c6;ODH;-8.10536355323586;54.9669822336719;ie;ie_sdoherty;;Ireland - S Doherty;https://www.transportforireland.ie/transitData/google_transit_sdoherty.zip;http://www.transportforireland.ie/transitData/PT_Data.html;54.9669822336719,-8.10536355323586
+ca5849bb-c77a-47b7-9949-3f525097a4b4;OPLLDZ;19.456;51.7592;pl;lodz_gtfs;;Lodz;https://przyjazdy.pl/latest/lodz.zip?navitia+kisio;https://www.gtfs.pl/;51.7592,19.456
+1552615b-de7b-47fa-97f3-4d325751706e;WNI;-0.464827;46.323942;fr-sw;Niort - TANlib;;Niort - TANlib (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_du_niortais-aggregated-gtfs.zip;https://www.tanlib.com/;46.323942,-0.464827
+0af1f66f-fa76-4754-93c3-5d07aa3fa252;E42;-0.465839236302297;39.4219812475497;es;es_metro-valencia;;Spain - Valencia;;https://www.tib.org/en/web/ctm/open-data;39.4219812475497,-0.465839236302297
+cd05a391-c4f7-4dc7-978c-82fd48b36b23;OM5;5.52592509687014;43.2445037551525;fr-se;Marseille - Les bus de la Marcouline;;Marseille - Les bus de la Marcouline (Transmétropole) (open);http://tsvc.pilote4.cityway.fr/api/Export/v1/GetExportedDataFile?ExportFormat=Gtfs&OperatorCode=MARCOULINE;https://www.lepilote.com/fr/part20/le-reseau/80;43.2445037551525,5.52592509687014
+17d4d40e-fa86-4aff-bb36-078a12851846;OAD;138.699392243729;-35.0173271971371;au;au_adelaide;;Australia - Adelaide;https://gtfs.adelaidemetro.com.au/v1/static/latest/google_transit.zip;http://adelaidemetro.com.au/;-35.0173271971371,138.699392243729
+0d2db153-f8db-424e-9876-691a6b19db15;OPLSWC;14.247578;53.910033;pl;pl_swinoujscie_gtfs;;Swinoujscie;https://mkuran.pl/gtfs/swinoujscie.zip;https://mkuran.pl/gtfs/;53.910033,14.247578
+d6767e08-323e-44b7-9669-52e7e6ec6f06;OWC;-122.434595655457;48.7892561106729;us-wa;us-wa_whatcomtrans;;Washington - Whatcomtrans;https://github.com/whatcomtrans/publicwtadata/raw/master/GTFS/wta_gtfs_latest.zip;;48.7892561106729,-122.434595655457
+20fe9868-08af-4c97-8afd-f36240217793;OTC;2.42238459099522;49.3724934842636;fr-ne;Clermont - Le Bus;;Clermont (SITCAC) - Le Bus;http://exs.sismo2.cityway.fr/GTFS.aspx?key=SISMO&OperatorCode=SITCAC;https://www.oise-mobilite.fr/fr/part17/a-propos-de-nous/154;49.3724934842636,2.42238459099522
+0e4f68e3-3d74-4368-888f-a870142c0f57;FTG;5.162258;48.771335;fr-ne;Fluo - Navettes TGV;;Fluo - Navettes TGV (open);https://zenbus.net/gtfs/static/download.zip?dataset=grand-est-tgv;https://transport.data.gouv.fr;48.771335,5.162258
+da3914c2-dedc-42e2-8793-f46bfb0cf7d6;BRX;-73.8704698724178;40.848862467048;demo;us-ny_bronx;;New York - Bronx;http://web.mta.info/developers/data/nyct/bus/google_transit_bronx.zip;http://www.mta.info/;40.848862467048,-73.8704698724178
+23f6973d-ee3c-4cb0-926f-51fded508b2c;DLV;5.78346;43.833729;fr-se;Manosque - Transagglo;;Manosque - Transagglo (open);https://trouver.datasud.fr/dataset/0c5ad935-272e-4d9e-b0db-cdcb1a5309b8/resource/0ca29750-b689-4580-afc0-4b127ee4b914/download/dlva.gtfs.zip;https://mobilite.dlva.fr/;43.833729,5.78346
+11b53d82-d0d3-406c-b2d9-8317ff726e0b;OTR;-9.70176327909074;52.2694617792984;ie;ie_tralee;;Ireland - Tralee;https://www.transportforireland.ie/transitData/google_transit_tralee.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.2694617792984,-9.70176327909074
+de4605c3-4734-4840-b405-3f83f13ce856;OCI;-123.55236318037;45.0010983840954;us-or;us-or_carabanairport;;Oregon - Caraban Airport;http://transitfeeds.com/p/caravan-airport-transportation/439/latest/download;http://oregon-gtfs.com/;45.0010983840954,-123.55236318037
+270508c1-5155-4d02-a270-746b815d5792;OBI;-4.486076;48.390394;fr-nw;Brest - Bibus;;Brest - Bibus (open);https://ratpdev-mosaic-prod-bucket-raw.s3-eu-west-1.amazonaws.com/11/exports/1/gtfs.zip;https://www.data.gouv.fr/fr/datasets/liste-des-arrets-horaires-et-parcours-de-tous-les-bus-et-tramways-circulant-sur-le-territoire-de-brest-metropole/#_;48.390394,-4.486076
+11d57b06-b71c-4f2d-bbb6-7a6e7edd990e;OIT;-73.3372738528232;45.4354613605187;ca-qc;ca-qc_cit_chambly-richelieu-carignan;;Canada - Chambly-Richelieu-Carignan;http://www.rtm.quebec/xdata/citcrc/google_transit.zip;https://rtm.quebec/fr/a-propos/donnees-ouvertes;45.4354613605187,-73.3372738528232
+e0616e5f-007b-4a38-87e6-274e6981ce14;OMN;145.074701;-38.2225353333333;au;au_mornington;;Australia - Mornington;http://addtransit.com/gtfs/MorningtonRailway/MorningtonRailway.zip;http://addtransit.com/gtfs/MorningtonRailway;-38.2225353333333,145.074701
+2d898fcd-8b21-47c1-b101-1fe7595f9f19;WRO;-0.962414;45.936802;fr-sw;Rochefort - Rbus;;Rochefort - Rbus (open);;https://www.rbus-transport.com/;45.936802,-0.962414
+151e6fec-aa91-41e0-ab46-2a654b2ab982;OWX;-6.57380112900943;52.6936169843965;ie;ie_wexfordbus;;Ireland - Wexford Bus;https://www.transportforireland.ie/transitData/google_transit_wexfordbus.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.6936169843965,-6.57380112900943
+e39b7cb4-24e6-4a48-88e4-00fc1a1b67e7;OBT;-117.056585197677;33.9926359254389;us-ca;us-ca_beaumont;;California - Beaumont;http://data.trilliumtransit.com/gtfs/beaumont-ca-us/beaumont-ca-us.zip;http://data.trilliumtransit.com/gtfs/beaumont-ca-us/;33.9926359254389,-117.056585197677
+313cb77d-9cc7-41e0-aa1a-47d65858150f;OKC;-122.154709866789;47.5294366298014;us-wa;us-wa_kingcounty;;Washington - King County;;;47.5294366298014,-122.154709866789
+156dab63-e41c-45cd-af86-ceafc0314377;TUS;10.091924;35.675914;tu;tu_soretrak_gtfs;;Tunisie - autobus Soretrak;;;35.675914,10.091924
+e5c2a344-57aa-4226-b08b-f03603f503d1;GUE;1.874496;46.171012;fr-sw;Grand Gueret - Agglo'Bus;;Grand Gueret - Agglo'Bus (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_grand_gueret-aggregated-gtfs.zip;https://www.agglo-grandgueret.fr/les-horaires-du-reseau-agglobus;46.171012,1.874496
+314c2a69-c4fd-4bb8-bfcb-ddfbb3127824;TRN;2.3522;48.8566;fr-ne;SNCF Transilien Open Data;;SNCF Transilien Open Data;https://eu.ftp.opendatasoft.com/sncf/gtfs/transilien-gtfs.zip;https://ressources.data.sncf.com/explore/;48.8566,2.3522
+1735978d-0f08-45b2-a885-36827e358c7a;ITA;;;it;Airpullman_gtfs;;Italia - airpullman S.p.a;https://usbshare.agenziatpl.it/index.php/s/NbJofBZHDt9ba5a/download/2021-09-10_AirPullman.zip;;
+e74823b5-6b50-4faf-bee8-7d6aa8dc6af4;OLN;-120.656105554596;40.346457998349;us-ca;us-ca_lassen;;California - Lassen;http://data.trilliumtransit.com/gtfs/lassen-ca-us/lassen-ca-us.zip;http://data.trilliumtransit.com/gtfs/lassen-ca-us/;40.346457998349,-120.656105554596
+31abca0f-b625-4d86-8f47-302313c6bbef;OEY;151.20699;-33.867487;au;au_sydney;;Australia - Sydney;;https://opendata.transport.nsw.gov.au/;-33.867487,151.20699
+1819e615-b953-46a9-926d-066ad9fd913a;OSQ;4.3871779;45.439695;fr-se;Saint-Etienne - STAS;;Saint-Etienne - STAS (open);https://www.data.gouv.fr/fr/datasets/r/8b3e71e2-1155-4fb0-bf4a-cdddbb496e29;https://www.reseau-stas.fr/;45.439695,4.3871779
+e8b8b92c-8ad7-440e-b388-02122af334ef;OVS;6.15428;47.619788;fr-ne;Vesoul - Vbus;;Vesoul - Vbus (open);;https://www.vbus.fr/;47.619788,6.15428
+325061be-549e-467a-99c3-0afe4ce4d015;OM4;5.22064681856485;43.3486622386754;fr-se;Marseille - Les bus de la Côte Bleue (Transmétropole);;Marseille - Les bus de la Côte Bleue (Carry-le-Rouet) (open);http://tsvc.pilote4.cityway.fr/api/Export/v1/GetExportedDataFile?ExportFormat=Gtfs&OperatorCode=COTEBLEUE;http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf;43.3486622386754,5.22064681856485
+1b533b55-32e2-4d88-80f7-b5dec91f6faf;CRF;4.362817;48.956859;fr-ne;Réseau interurbain Fluo C140;;Réseau interurbain Fluo C140 (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=LCA;https://transport.data.gouv.fr;48.956859,4.362817
+e9521796-b0d9-46e1-8428-d451b4151f60;OCG;-9.04088388164538;52.4915057381741;ie;ie_cmadigan;;Ireland - C Madigan;https://www.transportforireland.ie/transitData/google_transit_cmadigan.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.4915057381741,-9.04088388164538
+3459fac4-898c-4155-834b-358f708b1af6;OPLKTN;19.3643;52.2306;pl;kutno_gtfs;;Kutno;https://przyjazdy.pl/latest/kutno.zip?navitia+kisio;https://www.gtfs.pl/;52.2306,19.3643
+1d2b050f-690c-497c-87df-68116a473a56;LAB;-118.362998202208;34.0210337095315;us-ca;us-ca_LA-Bus;;California - Los Angeles Bus;https://transitfeeds.com/p/la-metro/184/latest/download;;34.0210337095315,-118.362998202208
+e95c01e7-52f9-48b5-ab8e-673a616e3d16;R63;3.086668;45.779883;fr-se;Puy-de-Dôme - Réseau interurbain 63;;Puy-de-Dôme - Réseau interurbain 63 (open);https://mobi-iti-ara.okina.fr/static/mobiiti_puy_de_dome/gtfs.zip;https://www.auvergnerhonealpes.fr/253-transport-interurbain-cars-region.htm;45.779883,3.086668
+3919db48-3404-4b61-abcd-3a02d7940f26;ONYTCT;-76.5031;42.4439;us-ny;us-ny_TCAT_GTFS;;TCAT - Ithaca;https://s3.amazonaws.com/tcat-gtfs/tcat-ny-us.zip;https://www.tcatbus.com/;42.4439,-76.5031
+2122c64c-3fd3-4c16-b2e2-246c628b7d33;LKE;-7.39180278476671;53.1355165411465;ie;ie_sbloom;;Ireland - Slieve Bloom;https://www.transportforireland.ie/transitData/google_transit_sbloom.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.1355165411465,-7.39180278476671
+ee3ec8b6-a272-4f3b-9dfb-12755edc5d37;OMA;5.157468;43.478222;fr-se;Istres - Ulysse;;Istres - Ulysse (open);http://tsvc.pilote4.cityway.fr/api/Export/v1/GetExportedDataFile?ExportFormat=Gtfs&OperatorCode=SANPROVENCE;https://www.lepilote.com/fr/part4/le-reseau/80;43.478222,5.157468
+3d05cea4-67a2-49d9-b39f-ca88fbb5110a;OII;5.550796;46.671361;fr-ne;Lons-le-Saunier - Tallis;;Lons-le-Saunier - Tallis (open);;https://www.tallis.fr/;46.671361,5.550796
+21c9fef9-b577-49b7-994c-e68261f458f5;OVO;5.59117219474194;45.38221583283;fr-se;Voiron - Transport voironnais;;Voiron - Transport voironnais (open);https://www.itinisere.fr/fr/donnees-open-data/169/OpenData/Download?fileName=VOIRON.GTFS.zip;https://www.itinisere.fr/fr/donnees-open-data/169/OpenData/Index;45.38221583283,5.59117219474194
+ee6ab289-d9d1-4f8c-9e3e-47dfb6dbd26c;MF3;-70.92077;41.528987;us-ma;us-ma_cuttyhunk;;Massachusetts - Cuttyhunk;http://data.trilliumtransit.com/gtfs/cuttyhunkferryco-ma-us/cuttyhunkferryco-ma-us.zip;https://www.massdot.state.ma.us/DevelopersData.aspx;41.528987,-70.92077
+3ea16914-91e0-4290-a3f9-ed3cb79469cb;OOI;-1.170736;44.661099;fr-sw;Arcachon - BAIA;;Arcachon - BAIA (open);https://www.data.gouv.fr/fr/datasets/r/d87bebe9-68dd-412c-86f6-85808562410d;https://transport.data.gouv.fr/;44.661099,-1.170736
+233e0f47-eb6f-4bf7-ab6c-b397bf041c3f;R15;2.445404;44.930021;fr-se;Cantal - Réseau interurbain 15;;Cantal - Réseau interurbain 15 (open);https://www.data.gouv.fr/fr/datasets/r/cf04278c-ffb3-412a-a8cc-088f879a340f;https://www.auvergnerhonealpes.fr/253-transport-interurbain-cars-region.htm;44.930021,2.445404
+f031e61e-bfae-4fb9-babb-4ac97bdbb705;WSG;7.070862;49.106031;fr-ne;sarreguemines_open_gtfs;;Sarreguemines - Cabus;https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=CABUS;https://www.agglo-sarreguemines.fr/transports-urbains-et-suburbains/;49.106031,7.070862
+43f4bd6b-f22a-44e9-8883-183a60a59b5e;USE;;;uk;uk_southeast_gtfs;;UK - South East;https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/south_east/;;
+235a1557-fedc-4dd9-b9ce-acb6d9778c5b;E21;-1.80016584008631;43.3347296037834;es;es_auif;;Spain - Auif;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_auif_urb/google_transit.zip;;43.3347296037834,-1.80016584008631
+f199c00f-03fc-42e2-98b1-6bb1d07b0276;COG;-0.326153;45.69803;fr-sw;Cognac - Transcom;;Cognac - Transcom (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_grand_cognac-aggregated-gtfs.zip;https://www.transcom.fr/;45.69803,-0.326153
+445f4797-33ce-4422-8f19-b437189ae79c;OUKWAL;;;uk;uk_wales_gtfs;;Wales;https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/wales/;https://data.bus-data.dft.gov.uk/timetable/download/;
+25c3e72c-c1e1-498d-9281-b3ec689611f2;OWS;-73.800416;41.133138;us-ny;us-ny_westchester;;New York - Westchester;https://transitfeeds.com/p/westchester-county-department-of-transportation/434/latest/download;http://transportation.westchestergov.com/;41.133138,-73.800416
+f2bbc978-7c90-4faf-9299-729d348ec17c;OYM;-0.6167;48.3;fr-nw;Mayenne - MayBus;;Mayenne - MayBus (Open);http://zenbus.net/gtfs/static/download.zip?dataset=maybus;https://zenbus.net/maybus;48.3,-0.6167
+4617b2f2-eb04-440e-87b0-ac9e11303039;W23;1.869341;46.169294;fr-sw;Creuse - Réseau Interurbain 23;;Creuse - Réseau Interurbain 23 (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/creuse-aggregated-gtfs.zip;https://transports.nouvelle-aquitaine.fr/cars-regionaux/reseau-et-horaires/creuse;46.169294,1.869341
+2640c2b7-3969-4ae5-af99-f621657ccad7;O30;4.1513764;43.9446996;fr-se;Gard_gtfs_open;;Occitanie - Gard (open);https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/1c9b9f4bca8b160ae19efbbae51b3547/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;43.9446996,4.1513764
+f3248881-f5cb-4dad-8153-058b2c23ff1a;OUSDCARL;-77.050636;38.889248;us-dc;us-dc_arlington_gtfs;;Washington DC - Arlington bus;http://realtime.commuterpage.com/rtt/public/utility/gtfs.aspx;https://www.arlingtontransit.com/;38.889248,-77.050636
+468f66e0-b844-41cb-84a4-923078241d7c;OL2;-9.168875;38.705486;pt;pt_lisbonne8;;Portugal - SulFertagus;http://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/21/gtfs_21.zip;https://www.transporlis.pt/Default.aspx?tabid=254;38.705486,-9.168875
+289bbd09-b358-42ed-b400-e7a335ccd629;E30;-1.90338564111658;43.3026973913563;es;es_errenteria;;Spain - Errenteria;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_renteria/google_transit.zip;;43.3026973913563,-1.90338564111658
+f393fbf9-5adb-4831-b6d2-7400e474ba7e;O66;2.8948332;42.6886591;fr-se;Pyrénées-Orientales;;Pyrénées-Orientales (open);https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/24503c44a81fccd824e4b0dadd1a38ba/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;42.6886591,2.8948332
+4909029b-e3d1-4982-aa46-4583f6dc295b;TIC;4.947463;48.637494;fr-ne;Saint-Dizier - TICEA;;Saint-Dizier - TICEA (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=SDZ;https://www.bus-ticea.com/;48.637494,4.947463
+2cfb1f7f-5d6f-400b-b701-579e1ab05223;ONO;-121.862046905558;38.1308105064712;us-ca;us-ca_riovista;;California - Rio Vista;http://data.trilliumtransit.com/gtfs/riovista-ca-us/riovista-ca-us.zip;http://data.trilliumtransit.com/gtfs/riovista-ca-us/;38.1308105064712,-121.862046905558
+f6a91937-e063-4c43-a97e-c74470fdd8b8;OGM;-2.176435;53.497831;uk;uk_manchester_gtfs;;UK - Manchester;https://odata.tfgm.com/opendata/downloads/TfGMgtfsnew.zip;https://data.gov.uk/dataset/public-transport-schedules-gtfs/resource/e58f35d3-7404-4d70-b2d3-0eeb3143ccea;53.497831,-2.176435
+4b3463d5-5b4b-462b-b937-739b8654de54;HUS;20.141425;46.25301;hu;hu_Szeged_gtfs;;Hungary - Szeged;https://www.szegedimenetrend.hu/google_transit.zip;;46.25301,20.141425
+2de1e246-ea7c-4198-af72-915fafcbb2b4;FIK;;;fi;fi_kuopio_gtfs;;Finland - Kuopio;https://transitfeeds.com/p/city-of-kuopio/731/latest/download;;
+fcea59ae-c315-42d1-9db8-3e69d0225ef0;ODP;-6.18719516659313;53.4475286439626;ie;ie_swordsexpress;;Ireland - Swords Express;https://www.transportforireland.ie/transitData/google_transit_swordsexpress.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.4475286439626,-6.18719516659313
+4b5201b9-be17-4df6-bcb8-3051cf586e89;OCR;-70.3008658066469;41.785319635297;us-ma;us-ma_ccrta;;Massachusetts - Cape Cod RTA;https://transitfeeds.com/p/massdot/96/latest/download;https://www.massdot.state.ma.us/DevelopersData.aspx;41.785319635297,-70.3008658066469
+30c2685b-690d-4ae9-b521-9a533b14b097;OML;-73.603118;45.446466;ca-qc;ca-qc_stm_montreal;;Canada - Montréal;;http://www.stm.info/fr/a-propos/developpeurs;45.446466,-73.603118
+fddc74e7-4002-491b-8fc2-0e1b046f6545;OPY;6.0667;48.9;fr-ne;pont-a-mousson_open_gtfs;;Pont-à-Mousson - Le Bus;https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=LEBUS;https://www.reseaulebus.com/;48.9,6.0667
+4dbfd4eb-7ab6-471f-9ec3-29da782320d3;OHO;-7.190993;53.161806;ie;ie_horan;;Ireland - Horans;https://www.transportforireland.ie/transitData/google_transit_horan.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.161806,-7.190993
+32adbd4d-20cc-4af3-98ca-a0ed63218413;ORK;2.352973;43.211973;fr-se;Carcassonne - RTCA;;Carcassonne - RTCA (open);https://www.data.gouv.fr/fr/datasets/r/cb2564ff-246e-4b2f-9e8e-c9d93eb5a9a1;https://rtca.carcassonne-agglo.fr/;43.211973,2.352973
+fe8b83bf-4bdf-4710-9c8b-40c3ca8b12d4;OBH;-7.40273594707295;52.8422869795582;ie;ie_bkavanagh;;Ireland - Bernard Kavanagh;https://www.transportforireland.ie/transitData/google_transit_bkavanagh.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.8422869795582,-7.40273594707295
+4efb29e7-5792-425f-94e5-69479e4b9c1b;RDS;-0.46482;46.323845;fr-sw;Deux Sèvres - RDS;;Deux Sèvres - RDS (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/deux_sevres-aggregated-gtfs.zip;https://transports.nouvelle-aquitaine.fr/cars-regionaux/reseau-et-horaires/deux-sevres;46.323845,-0.46482
+32fd4e66-ee63-490b-bd6b-2e2fdfe549ed;OEL;2.58484104621847;49.2057678375661;fr-ne;Senlis - TUS;;Senlis - TUS (open);http://exs.sismo2.cityway.fr/GTFS.aspx?key=SISMO&OperatorCode=TUS;https://www.oise-mobilite.fr/fr/part2/a-propos-de-nous/154;49.2057678375661,2.58484104621847
+fe990e70-d394-478a-8e57-482e6b1d8879;OMS;-73.6669309245998;45.6798490849546;ca-qc;ca-qc_mrc_moulins;;Canada - Terrebonne Mascouche;http://www.rtm.quebec/xdata/mrclm/google_transit.zip;https://rtm.quebec/fr/a-propos/donnees-ouvertes;45.6798490849546,-73.6669309245998
+50421f77-4f72-4295-b51b-b1afd286f69a;OCP;-122.887731255852;44.8345535067814;us-or;us-or_cascadepoint;;Oregon - Cascade Point;http://transitfeeds.com/p/cascade-point/441/latest/download;http://oregon-gtfs.com/;44.8345535067814,-122.887731255852
+335ad174-e0cb-4b2a-836a-51ee7bbafb08;LBT;2.747309;50.472623;fr-ne;Lens - Béthune - Tadao;;Lens - Béthune - Tadao (open);https://www.data.gouv.fr/fr/datasets/r/7b2754e2-006f-49e5-b8f1-0d784a62fb98;https://www.tadao.fr/index.php?;50.472623,2.747309
+50e810c3-99c7-466f-b439-a06344840440;ORV;-122.83340024952;42.3107484724866;us-or;us-or_medford;;Oregon - Medford;;http://www.rvtd.org/;42.3107484724866,-122.83340024952
+36ffdecf-88cf-482e-bd27-a13a2c35ff94;OEE;24.9872555;58.5974875;ee;ee_estonia;;Estonia;http://www.peatus.ee/gtfs/gtfs.zip;http://www.peatus.ee/gtfs/;58.5974875,24.9872555
+51a52248-7a28-400a-b114-74442b864d08;OVN;12.3350864178402;45.3841024838358;it;it_venezia-navigazione;;Italia - Venezia 2;http://actv.avmspa.it/sites/default/files/attachments/opendata/navigazione/actv_nav.zip;http://dati.venezia.it/?q=content/actv-general-transit-feed-specification-gtfs;45.3841024838358,12.3350864178402
+37e990f3-76e8-4e3d-be32-3c9e457292c5;E39;1.33569949923648;41.7311079801814;es;es_fgc;;Spain - FGC;http://www.fgc.cat/google/google_transit.zip;http://dadesobertes.gencat.cat/en/cercador/detall-cataleg/?id=178;41.7311079801814,1.33569949923648
+542d62ac-d9bc-4f8e-8ef7-c47f95fddefc;OGG;-7.18603845352121;52.778528036389;ie;ie_buggy;;Ireland - Buggy;https://www.transportforireland.ie/transitData/google_transit_buggy.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.778528036389,-7.18603845352121
+391934a7-f504-4d81-be95-99a3d89c1441;O21;5.0416;47.322259;fr-ne;Côte d'Or - Mobigo;;Côte d'Or - Mobigo (open);https://exs.mobigo.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=UT21;https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/;47.322259,5.0416
+59e16d40-63b4-4be5-baa7-df85a5d266a6;OLR;-71.3113549565856;42.5679652154241;us-ma;us-ma_lrta;;Massachusetts - Lowell RTA;https://transitfeeds.com/p/massdot/99/latest/download;;42.5679652154241,-71.3113549565856
+39b3e615-289b-4438-b6e3-bd91f0b0967c;ONM;-0.515749;48.878847;fr-nw;normandie_gtfs_open;;Région Normandie - Comment J'y Vais (open);https://www.data.gouv.fr/fr/datasets/r/f75fb92b-7483-4aa4-b040-9ab4ad53cf4b;https://transport.data.gouv.fr/datasets/base-de-donnees-multimodale-des-reseaux-de-transport-public-normands/;48.878847,-0.515749
+5c001afc-1257-4a4a-8d71-49f79c526ef1;ORE;-1.677793;48.117266;fr-nw;Rennes - STAR (24/10 - 06/11);;Rennes - STAR (open);https://data.rennesmetropole.fr/explore/dataset/versions-des-horaires-theoriques-des-lignes-du-reseau-star-au-format-gtfs/files/367f38349a24484d5b2e3a66eb5485cf/download/;https://data.rennesmetropole.fr/;48.117266,-1.677793
+39c73e7b-a6f1-4944-b642-620c11267e3a;NUO;9.33193958707019;40.3378269718059;it;it_nuoro;;Italia - Nuoro;http://www.sardegnamobilita.it/opendata/dati_atpnu.zip;http://www.sardegnamobilita.it/opengovernment/opendata/;40.3378269718059,9.33193958707019
+5ff0f86e-4b00-4acc-9c21-3c7e6deb1ccf;E44;-3.64264729874158;40.3784840264629;es;es_crtm-metro;;Spain - CRTM Metro;;http://www.google.com/url?q=http%3A%2F%2Fwww.fgv.es%2Ftransparencia%2Findex.php&sa=D&sntz=1&usg=AFQjCNFp2InwNzyklrUVPsw_s7o5We6m4g;40.3784840264629,-3.64264729874158
+3a83303b-2bd6-4455-a3c8-4a5ede2bab19;OTP;-122.674551474181;45.4584524572662;us-or;us-or_trimetportland;;Oregon - Trimet Portland;http://developer.trimet.org/schedule/gtfs.zip;http://developer.trimet.org/terms_of_use.shtml;45.4584524572662,-122.674551474181
+627763fa-fd9a-4628-be64-c04c1704d3b2;LCP;-9.145293;38.738031;pt;pt_lisbonne7;;Portugal - CP;http://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/3/gtfs_3.zip;https://www.transporlis.pt/Default.aspx?tabid=254;38.738031,-9.145293
+3ab56711-4514-43bc-939e-8fe9254c4641;UEA;;;uk;uk_eastanglia_gtfs;;United Kingdom - East Anglia;https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/east_anglia/;;
+6df0dab0-0fe9-497e-84b9-e151b73ab569;W51;4.147545;49.128754;fr-ne;Réseau interurbain Marne - Fluo;;Réseau interurbain Marne - Fluo (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=C51;https://transport.data.gouv.fr;49.128754,4.147545
+3be61f60-5a09-46d4-80cb-b53e30a82693;RIT;7.787551;48.817311;fr-ne;Haguenau - Ritmo;;Haguenau - Ritmo (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=Haguenau;https://www.ritmo.fr/;48.817311,7.787551
+6f8ce8ab-9c69-4b21-910c-2a9973936479;ONR;-70.088503179105;41.2685650402874;us-ma;us-ma_nrta;;Massachusetts - Nantucket;;;41.2685650402874,-70.088503179105
+3c7b4ebf-d36a-4a25-b37c-09fe560ad5a8;E27;-2.34692518468432;43.2073378009906;es;es_pesa;;Spain - Pesa;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_pesa/google_transit.zip;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi;43.2073378009906,-2.34692518468432
+7053d677-6fcd-4784-95d0-ee6cab5ab1da;ARS;8.94342188594354;40.0858650206622;it;it_arst;;Italia - ARST;http://www.arstspa.info/arst-cagliari-it.zip;http://www.sardegnamobilita.it/opengovernment/opendata/;40.0858650206622,8.94342188594354
+3e0798d6-b8c7-4291-9bca-d3717a0ca52f;OSW;62.1983366;62.1983366;se;se_sweden;;Sweden;https://api.resrobot.se/gtfs/sweden.zip?key=ae255640-30bc-416e-8a3f-999ea2c9ca19;;62.1983366,62.1983366
+713a01fb-5908-4209-9549-1955e4452547;P49;0.572562750892442;47.537218642458;fr-nw;Aleop - Maine-et-Loire;;Aleop - Maine-et-Loire (open);https://donnees.paysdelaloire.fr/data/pdl49.zip;https://data.paysdelaloire.fr;47.537218642458,0.572562750892442
+42cb7ec3-380b-4a55-b61f-7fdffcc87528;TRE;8.92648279760709;40.1596759114707;it;it_trenitalia;;Italia - Trenitalia;http://www.sardegnamobilita.it/opendata/dati_trenitalia.zip;http://www.sardegnamobilita.it/opengovernment/opendata/;40.1596759114707,8.92648279760709
+72629383-34c9-444d-bd8d-f1957f323bfd;O25;6.021816;47.236477;fr-ne;Doubs - Mobigo;;Doubs - Mobigo (open);https://exs.mobigo.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=UT25;https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/;47.236477,6.021816
+438f71a6-dd91-4e7e-9ed9-e6dd76cba128;WLA;-0.773765;48.070912;fr-nw;Laval - TUL;;Laval - TUL (open);https://www.data.gouv.fr/fr/datasets/r/c82526ba-9da9-4c6e-bb42-8b9bbc2b53ff;https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-de-laval-agglomeration-gtfs/;48.070912,-0.773765
+75a61951-728c-4c6a-ae6e-d91e6de297bd;GAE;2.1486413;43.9250853;fr-sw;Grand Albigeois - Lignes estivales;;Grand Albigeois - Lignes estivales (open);https://www.data.gouv.fr/fr/datasets/r/15878ceb-7c8f-4546-bb0f-c540a15f2188;https://www.libea-mobilites.fr/;43.9250853,2.1486413
+4a0ba348-97db-432c-b4c0-f77602a8d34a;BKL;-73.9159225244673;40.6706862301278;demo;us-ny_brooklyn;;New York - Brooklyn;http://web.mta.info/developers/data/nyct/bus/google_transit_brooklyn.zip;http://www.mta.info/;40.6706862301278,-73.9159225244673
+785c10cc-1f87-4b3c-bba8-d513f6e7ff9b;F55;5.162277;48.771323;fr-ne;Réseau interurbain Meuse - Fluo;;Réseau interurbain Meuse - Fluo (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=RITM;https://transport.data.gouv.fr/;48.771323,5.162277
+4ce425a9-25aa-4f83-a9db-98a4c6abdaa9;CML;-118.043262754767;34.0175028347216;us-ca;us-ca_metrolink;;California - Metrolink;https://transitfeeds.com/p/metrolink/332/latest/download;https://www.metrolinktrains.com/help/page/title/developer_resources#license-agreement;34.0175028347216,-118.043262754767
+78745e99-3c57-4920-8be5-97232cc2b394;OZB;3.215795;43.344233;fr-se;Béziers - beeMob;;Béziers - beeMob (open);https://www.data.gouv.fr/fr/datasets/r/7d50d7cc-0c34-43ec-9da1-77be5c82a1d4;https://beemob.fr/fr/;43.344233,3.215795
+59359086-022d-4aa4-bd7a-36304b928e5a;E43;-0.174604922375828;38.5827455710644;es;es_alicante;;Spain - Alicante;http://www.tramalicante.es/google_transit_feed/google_transit.zip;https://www.fgv.es/transparencia/index.php;38.5827455710644,-0.174604922375828
+7b620fd6-8837-43a1-aa7a-040a508d8624;O81;1.9881527;43.9264401;fr-sw;Tarn_gtfs_open;;Occitanie - Tarn;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/36a6454a8beb557ee90834a107243ed6/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;43.9264401,1.9881527
+5bfb8247-8c99-41d7-9318-bb79651df2ab;WPE;0.715754;45.183937;fr-sw;Périgueux - Péribus;;Périgueux - Péribus (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_grand_perigueux-aggregated-gtfs.zip;https://www.grandperigueux.fr/au-quotidien/deplacements/transports-collectifs-en-bus/peribus-le-reseau-de-bus;45.183937,0.715754
+7dc97686-174e-4502-94d5-59363c099c00;OHS;-73.7966727389388;45.2794868780406;ca-qc;ca-qc_cit_haut-saint-laurent;;Canada - Haut Saint Laurent;http://www.rtm.quebec/xdata/cithsl/google_transit.zip;https://rtm.quebec/fr/a-propos/donnees-ouvertes;45.2794868780406,-73.7966727389388
+6030192f-61e1-4772-b1c9-49430f3a699c;OYT;-73.898022;40.743849;us-ny;us-ny_centro;;New York - Central New York;https://transitfeeds.com/p/central-new-york-rta/524/latest/download;http://www.centro.org/;40.743849,-73.898022
+80036575-b869-4f72-ba8f-416d567509c7;OPLRZW;21.99912;50.041187;pl;pl_rzeszow_gtfs;;Rzeszow;https://mkuran.pl/gtfs/rzeszow.zip;https://mkuran.pl/gtfs/;50.041187,21.99912
+62c0ac6d-18c0-4f7f-8039-fd479224cd94;P85;1.40362439798884;46.6619807083978;fr-nw;Aleop - Vendée;;Aleop - Vendée (open);https://donnees.paysdelaloire.fr/data/pdl85.zip;https://data.paysdelaloire.fr;46.6619807083978,1.40362439798884
+80bb9330-de17-47fd-b7ea-c60e94ec3783;O09;1.443469;42.932629;fr-sw;ariege_gtfs;;Occitanie - Ariège;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/8547d3c242b15a5077d07cf78db132bd/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;42.932629,1.443469
+63a51700-e3aa-4e4d-ac7b-9631f6a098b2;OPLWLC;20.0648;49.9871;pl;wieliczka_gtfs;;Wieliczka;https://przyjazdy.pl/latest/wieliczka.zip?navitia+kisio;https://www.gtfs.pl/;49.9871,20.0648
+814fde49-b48b-47d6-ba04-4240e4916241;E16;-1.63387016108062;42.9131315865311;es;es_burundesa;;Spain - La Burundesa;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/La_Burundesa/google_transit.zip;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi;42.9131315865311,-1.63387016108062
+642e68e1-24cd-48b2-a85a-b2c5ba4dfb2f;OYR;-9.10158282968779;53.2649024064386;ie;ie_citydirect;;Ireland - City Direct;https://www.transportforireland.ie/transitData/google_transit_citydirect.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.2649024064386,-9.10158282968779
+84c51584-4c6d-4556-b65b-16a21495fef8;OAY;-123.149723494482;44.6029408871945;us-or;us-or_albany;;Oregon - Albany;http://transitfeeds.com/p/albany-transit-system/435/latest/download;http://oregon-gtfs.com/;44.6029408871945,-123.149723494482
+647199c1-15b4-4e7d-b01b-53e11f2de72d;O82;1.2891036;44.0126679;fr-sw;Tarn-et-Garonne_gtfs;;Occitanie Tarn-et-Garonne;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/95a1b53e7c15bd5e16437b99b830f93e/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;44.0126679,1.2891036
+872da120-622b-4289-80a5-757b09b2863f;OUB;-71.2091846597911;42.2572332939511;us-ma;us-ma_mbta;;Massachusetts - MBTA;https://cdn.mbta.com/MBTA_GTFS.zip;http://mbta.com/rider_tools/developers/;42.2572332939511,-71.2091846597911
+654f5094-3c72-4077-a492-6cb9d7ea2bed;ODN;11.0677912;49.4521381;de;Nuremberg;;Nuremberg;http://www.vgn.de/opendata/GTFS.zip;https://www.vgn.de/web-entwickler/open-data/;49.4521381,11.0677912
+8e780bda-4cd8-4c1a-96de-148fab9cac6f;ONB;3.501847;44.518014;fr-se;Mende - TUM;;Mende - TUM (open);https://zenbus.net/gtfs/static/download.zip?dataset=tum;https://tum-mende.fr/;44.518014,3.501847
+6730bece-4442-4c31-992f-aded1b207099;OVR;-123.009577653735;45.0287875867566;us-or;us-or_valleyretriever;;Oregon - Valley Retriever;http://transitfeeds.com/p/valley-retriever-buslines/487/latest/download;http://oregon-gtfs.com/;45.0287875867566,-123.009577653735
+9042ed6d-2fba-40dc-baf0-e150a3dd0876;W24;0.715754;45.183937;fr-sw;Dordogne - Réseau Interurbain 24;;Dordogne - Réseau Interurbain 24 (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/dordogne-aggregated-gtfs.zip;https://transports.nouvelle-aquitaine.fr/cars-regionaux/reseau-et-horaires/dordogne;45.183937,0.715754
+6875e836-aacd-486e-9836-0b17ac7b68ff;BAG;0.493014;6.84235;fr-sw;Bressuire - Agglo2b;;Bressuire - Agglo2b (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_bocage_bressuirais-aggregated-gtfs.zip;https://www.agglo2b.fr/transports-mobilite;6.84235,0.493014
+90975801-d750-4780-b5b9-879a3d912d58;OHM;10.0392138183392;53.5359155584922;de;Hamburg;;Hamburg;http://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/90a29c65-d9c5-4281-a45a-e12bf19a18fb/Upload__HVV_Rohdaten_GTFS_Fpl_20210903.zip;https://suche.transparenz.hamburg.de/dataset?esq_type=app&esq_type=dataset&esq_type=document&f=PDF&f=HTML&f=ZIP&f=CSV&f=XML&f=xlsx&f=XLS&f=gml&f=wms&f=wfs&f=rar&f=TXT&f=jpg&f=jpeg&f=ascii&f=png&f=dxf&f=web&f=citygml&f=ert&f=docx&f=ov2&f=tiff&f=xsd&l=dl-de-by-2.0&l=dl-de-zero-2.0&esq_not_all_versions=true&esq_coverage_type=publication&e=vergleichbar&g=transport-und-verkehr&change_search=1&sort=publishing_date+desc%2Ctitle_sort+asc&esq_not_all_versions=true;53.5359155584922,10.0392138183392
+6f169bca-3d19-4c73-b82b-c30622ff56e2;PAC;4.599063;44.735232;fr-se;Privas Centre Ardèche - T'CAP;;Privas Centre Ardèche - T'CAP (open);https://www.data.gouv.fr/fr/datasets/r/ba477c37-93d1-4900-8958-baf3c6de9d57;https://www.t-cap.mobi/;44.735232,4.599063
+9202732e-0b77-46c3-9d5a-7f12e3a7cfbc;OQL;-73.5776593;45.5110479;ca-qc;ca-qc_rtc_longueuil;;Canada - Longueuil;http://www.rtl-longueuil.qc.ca/transit/latestfeed/RTL.zip;http://www.rtl-longueuil.qc.ca/fr-CA/donnees-ouvertes/;45.5110479,-73.5776593
+6fb94ff9-d5ae-4a9d-855f-193f6f2e6690;AOL;9.506955873658;40.9157429296484;it;it_olbia;;Italia - Olbia;http://www.aspo.it/file/open_data.zip;http://www.sardegnamobilita.it/opengovernment/opendata/;40.9157429296484,9.506955873658
+921d0bbd-39a2-4f41-aba1-66dd9a8c6857;OFA;-8.82814011526029;53.4850049915168;ie;ie_farragher;;Ireland - Farragher;https://www.transportforireland.ie/transitData/google_transit_farragher.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.4850049915168,-8.82814011526029
+71699a89-57e1-4d53-b490-3cce58947399;OFI;24.9566044749618;60.4465144505887;fi;fi_helsinki;;Finland - Helsinki;https://api.digitransit.fi/routing-data/v2/hsl/HSL.zip;https://digitransit.fi/;60.4465144505887,24.9566044749618
+941f1dc6-a5ec-4e40-8ae4-10e1c750875c;WLB;-0.24544;44.91474;fr-sw;Libourne - Calibus;;Libourne - Calibus (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_du_libournais-aggregated-gtfs.zip;https://www.calibus.fr/;44.91474,-0.24544
+71d8f16a-3071-4c7f-8c9b-5e5cdd6992f0;OAZ;6.129384;45.899247;fr-se;Annecy - Sibra;;Annecy - Sibra (open);https://www.data.gouv.fr/fr/datasets/r/6a98d6c8-63b3-4abd-9fa7-8c6c1a0cad31;http://transport.data.gouv.fr/;45.899247,6.129384
+9599afca-c7ce-470a-97e8-bfa8fa65f30b;MDM;-0.501053;43.890833;fr-sw;Mont de Marsan - TMA;;Mont de Marsan - TMA (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_du_marsan-aggregated-gtfs.zip;https://bustma.com/fr/;43.890833,-0.501053
+74b30ca1-530b-45d6-9aeb-8c5a9f02acc3;OLE;5.04556;44.04774;fr-se;PACA - Lignes Express Régionales;;Lignes Express Régionales - ZOU (open);https://trouver.datasud.fr/dataset/44187c20-e037-4733-950a-b4463d314b90/resource/9ebd1d24-cca2-4f2e-9185-69db96fede8f/download/gtfs_ler.zip;https://trouver.datasud.fr/dataset?groups=mobilite-et-transports;44.04774,5.04556
+980f9ad6-035a-4a4f-a8e4-8861a63b6e10;UKGS;;;uk;uk_gloucestershire_se_gtfs;;UK - padam gloucestershire sud est;https://padam-public-assets.s3.eu-west-1.amazonaws.com/gcc_se_forest_of_dean/GTFS/Gloucestershire-SE-DRT-AREA.zip;;
+74fc1aab-b1c2-4017-a846-264ea5acfc2b;DN2;3.033664;50.655949;fr-ne;Département Nord - Périmètre 2;;Département Nord - Périmètre 2 (open);https://opendata.hautsdefrance.fr/sites/default/files/data/transport/RHDF_GTFS_COM_SCO_59_P2.zip;https://transports.hautsdefrance.fr;50.655949,3.033664
+9aee6e13-ff38-45d2-9d84-3b33b4453cca;LTO;-9.15928513588456;38.6778201833432;pt;pt_lisbonne;;Portugal - Transtejo;http://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/4/gtfs_4.zip;https://www.transporlis.pt/Default.aspx?tabid=254;38.6778201833432,-9.15928513588456
+76ec4f97-3ae0-4ffb-ba73-d8c2df3b534f;Z84;4.805151;43.949627;fr-se;Vaucluse - ZOU;;Vaucluse - ZOU (open);https://trouver.datasud.fr/dataset/44187c20-e037-4733-950a-b4463d314b90/resource/94e94c79-6d3e-486d-b65b-79aa0c2f6ed1/download/gtfs_84.zip;https://trouver.datasud.fr/dataset/lignes-autocars-interurbains-regionsud;43.949627,4.805151
+9afcdf12-2b75-4ae3-89d1-7dce78594baf;R74;6.123122;45.905822;fr-se;Haute-Savoie - Réseau interurbain 74;;Haute-Savoie - Réseau interurbain 74 (open);https://www.data.gouv.fr/fr/datasets/r/7701e468-6ca5-4320-ab9c-3cfcb9ca567b;https://www.auvergnerhonealpes.fr/253-transport-interurbain-cars-region.htm;45.905822,6.123122
+7849187f-b396-47e5-b5b3-f288ba9a4903;ODEVVS;9.1829;48.7758;de;de_stuttgart_gtfs;;VVS;https://download.vvs.de/google_transit.zip;https://www.openvvs.de/dataset/e66f03e4-79f2-41d0-90f1-166ca609e491/resource/bfbb59c7-767c-4bca-bbb2-d8d32a3e0378/download/vvs_gtfs.zip;48.7758,9.1829
+9e7ea037-b26c-4427-bc0d-d46ef03bce05;OMZ;6.154221;49.0992;fr-ne;Metz - Le Met';;Metz - Le Met' (open);https://si.eurometropolemetz.eu/fiches/opendata/gtfs_current.zip;https://www.lemet.fr/;49.0992,6.154221
+7ba51155-702d-4a8f-8a22-e4fe722bca82;O38;5.49305044693421;45.2915653606782;fr-se;Isère - Transisère;;Isère - Transisère (open);http://exs.itiniserev2.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=CG38&useCache=off;http://exs.itiniserev2.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=CG38&useCache=off;45.2915653606782,5.49305044693421
+a1b3a9e9-ad75-4861-9867-3279d2c1d861;CTF;6.074617;49.325105;fr-ne;Val de Fensch - Citéline;;Val de Fensch - Citéline (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=CITELINE;https://www.citeline.fr/;49.325105,6.074617
+7c91b0ab-ee97-4675-96a5-a8eaa8e4762f;OLV;-73.68216;45.559646;ca-qc;ca-qc_stl_laval;;Canada - Laval;http://www.stl.laval.qc.ca/opendata/GTF_STL.zip;http://www.stl.laval.qc.ca/fr/stl-synchro/developpeurs/;45.559646,-73.68216
+a1fe1680-5762-45f8-80a8-1bbd00a31a3c;OCK;-122.522091745661;45.66404271965;us-wa;us-wa_ctran;;Washington - Ctran;;;45.66404271965,-122.522091745661
+7d4fd00b-34b6-4589-917d-a8fcc5797d03;OSD;-116.722225834898;32.8793934635825;us-ca;us-ca_sdmts;;California - San Diego - Sdmts;https://transitfeeds.com/p/san-diego-mts/195/latest/download;;32.8793934635825,-116.722225834898
+a2fc25c3-f55c-4005-bf35-e1d60b80687d;OFD;-121.937257160989;38.2305599572935;us-ca;us-ca_fairfiel;;California - Fairfiel;http://data.trilliumtransit.com/gtfs/fairfield-ca-us/fairfield-ca-us.zip;http://data.trilliumtransit.com/gtfs/fairfield-ca-us/;38.2305599572935,-121.937257160989
+7e106e70-acd7-4f20-b2fe-26a306ef3bfb;OMD;-3.68700120567416;40.4261165509701;es;es_emt-madrid;;Spain - Madrid;https://servicios.emtmadrid.es:8443/gtfs/transitemt.zip;https://servicios.emtmadrid.es/;40.4261165509701,-3.68700120567416
+a35e067a-e77f-499b-be59-dcd744de2a3f;OEC;18.1819840433644;40.3937930077921;it;it_lecce;;Italia - Lecce;http://dati.comune.lecce.it/bigfiles/google_transit.zip;http://dati.comune.lecce.it/;40.3937930077921,18.1819840433644
+7e9c67e2-8859-43cf-9e90-ca0d71a78efe;AMA;2.295126;49.894243;fr-ne;Amiens - AMETIS;;Amiens - AMETIS (open);https://www.data.gouv.fr/fr/datasets/r/00959229-d9e2-4892-bc80-3180ba042cbd;https://www.ametis.fr/;49.894243,2.295126
+a65d6384-3509-4ea5-b444-59051d6f3adf;OAE;5.56142765073888;43.2930675193125;fr-se;Pays d'Aubagne - Les lignes de l'agglo;;Pays d'Aubagne - Les lignes de l'agglo (open);http://tsvc.pilote4.cityway.fr/api/Export/v1/GetExportedDataFile?ExportFormat=Gtfs&OperatorCode=AGGLOBUS;https://www.lepilote.com/fr/part15/le-reseau/80;43.2930675193125,5.56142765073888
+7ee5dcd5-a01d-430e-b4a3-d39f2cf3bc11;OHC;-95.31025;29.775182;us-tx;us-tx_Harris County GTFS;;Harris County;;http://ridemetro.org/Pages/NewsDownloads.aspx;29.775182,-95.31025
+a6f39929-542f-4fe0-b4b0-74801ec960c5;OSP;2.42080026693772;49.2558187271388;fr-ne;Creil-Sud-Oise - Pierre Sud Oise;;Creil-Sud-Oise - Pierre Sud Oise (open);http://exs.sismo2.cityway.fr/GTFS.aspx?key=SISMO&OperatorCode=STAC;https://www.oise-mobilite.fr/fr/part13/a-propos-de-nous/154;49.2558187271388,2.42080026693772
+7f1de083-3772-454e-aaea-54cfa02e9eef;OMQ;4.301565;46.950914;fr-ne;Grand Autunois Morvan - TEA;;Grand Autunois Morvan - TEA (open);https://static.data.gouv.fr/resources/arrets-lignes-regulieres-reseau-de-transport-urbain-a-autun/20210823-161944/gtfs-20210802-01.zip;https://www.grandautunoismorvan.fr/vivre-et-s-installer/vos-services-au-quotidien/ca-roule-l-offre-de-transport-et-de-mobilite-en-grand-autunois-morvan/le-transport-urbain-292.html;46.950914,4.301565
+a7ac2990-bbac-41a9-999d-69e436f44b10;AAV;6.80677115232402;50.964452319491;de;Aachen;;Aachen;http://opendata.avv.de/current_GTFS/AVV_GTFS_mit_SPNV.zip;http://transitfeeds.com/l/168-germany;50.964452319491,6.80677115232402
+80b1e029-3df0-47bc-9517-bb86d89f1c0a;OPO;13.3396323505432;38.1291019462824;it;it_palermo;;Italia - Palermo;https://www.comune.palermo.it/gtfs/amat_feed_gtfs.zip;http://www.comune.palermo.it/;38.1291019462824,13.3396323505432
+a9296e0e-7778-4092-b5f8-039916999d1b;OCA;-122.066925362113;37.4283468165415;us-ca;us-ca_caltrain;;California - Caltrain;;;37.4283468165415,-122.066925362113
+81cbf42b-0a9d-466b-bc13-270c9e8dee00;OPT;7.93289647115101;45.1125236054353;it;it_piemonte;;Italia - Piemonte;;http://www.dati.piemonte.it/catalogodati/dato/100939-.html;45.1125236054353,7.93289647115101
+abb0cc25-686f-423f-b4d7-8456e6764e15;OER;-8.58068132972721;52.6643886154766;ie;ie_eurobus;;Ireland - Eurobus;https://www.transportforireland.ie/transitData/google_transit_eurobus.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.6643886154766,-8.58068132972721
+84339b91-d8e4-4958-94a0-ad21143c8e9b;OZU;7.17153091177089;43.9333577745472;fr-se;Nice - Les Lignes d'Azur;;Nice - Les Lignes d'Azur (open);http://opendata.nicecotedazur.org/data/dataset/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur/resource/aacb4eea-d008-4b13-b17a-848b8ced7e03/download;http://opendata.nicecotedazur.org/data/dataset/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur#;43.9333577745472,7.17153091177089
+aee036e9-dae5-4136-9bc5-fc07bb2c61e8;OOR;4.0779733;43.562473;fr-se;Pays de l'Or - Transp'Or;;Pays de l'Or - Transp'Or (open);;https://www.paysdelor.fr/vie-quotidienne/transports/;43.562473,4.0779733
+845a9491-dfd1-42a9-8204-a1ca9a5aaf06;OEN;-123.803535333333;43.795395;us-or;us-or_eugencoos;;Oregon - Eugen Coos;http://transitfeeds.com/p/tac-transportation/465/latest/download;http://oregon-gtfs.com/;43.795395,-123.803535333333
+b1a67f8d-dc32-4f36-8af3-6dc3b45b4946;OSB;-121.486984019172;36.8995374221418;us-ca;us-ca_sanbenito;;California - San Benito;http://data.trilliumtransit.com/gtfs/sanbenitocounty-ca-us/sanbenitocounty-ca-us.zip;http://data.trilliumtransit.com/gtfs/sanbenitocounty-ca-us/;36.8995374221418,-121.486984019172
+8476cf77-f20b-43d6-a076-ca1847748fea;OPA;-116.575112901814;33.801908503581;us-ca;us-ca_sunline;;California - Sunline;http://www.sunline.org/transit/google_transit.zip;;33.801908503581,-116.575112901814
+b236cf5d-0e02-40f5-a027-7c2dc9c30ef5;E23;-2.37984972844152;43.2582672368977;es;es_euskotren2;;Spain - Lurraldelbus Euskotren;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_euskotren_bus/google_transit.zip;;43.2582672368977,-2.37984972844152
+872fdeae-e88b-485d-85e3-10205bf8b477;OBK;-8.99917764051262;53.4921742542245;ie;ie_burkes;;Ireland - Burkes;https://www.transportforireland.ie/transitData/google_transit_burkes.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.4921742542245,-8.99917764051262
+b474c2bf-3b68-4a47-a7f5-42eb9ee7f297;OPLGRZ;15.2369;52.7325;pl;gorzow_gtfs;;Gorzow;https://przyjazdy.pl/latest/gorzow.zip?navitia+kisio;https://www.gtfs.pl/;52.7325,15.2369
+8ae87064-030c-4bbf-b59b-0339cc0b9631;OPLBLW;16.6229;50.6908;pl;bielawa_gtfs;;Bielawa;https://przyjazdy.pl/latest/bielawa.zip?navitia+kisio;https://www.gtfs.pl/;50.6908,16.6229
+b4d7acb1-5a02-4370-805c-c03cf19fea32;OBR;-73.2246182097931;42.4715611560884;us-ma;us-ma_brta;;Massachusetts - BRTA;http://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip;https://www.massdot.state.ma.us/DevelopersData.aspx;42.4715611560884,-73.2246182097931
+8b7b0171-1a57-43dd-9814-43fb4bbf391b;NZH;;;nz;nz_Hamilton_gtfs;;NZ - Hamilton;;https://wrcscheduledata.blob.core.windows.net/wrcgtfs/busit-nz-public.zip;
+b5b01fe8-552c-44d5-8d1a-e85799c1e527;OWL;17.034949;51.108307;pl;Wroclaw source;;Wroclaw;https://www.wroclaw.pl/open-data/87b09b32-f076-4475-8ec9-6020ed1f9ac0/OtwartyWroclaw_rozklad_jazdy_GTFS.zip;https://www.wroclaw.pl/open-data/;51.108307,17.034949
+8bdf40c1-7b65-40ec-8315-754087cd98c2;Z06;7.271418;43.695904;fr-se;Alpes-Maritimes - ZOU;;Alpes-Maritimes - ZOU (open);https://trouver.datasud.fr/dataset/44187c20-e037-4733-950a-b4463d314b90/resource/286809c3-eac2-400f-8e5f-edc0690b9f8c/download/gtfs_06.zip;https://trouver.datasud.fr/dataset/lignes-autocars-interurbains-regionsud;43.695904,7.271418
+b699f619-abdd-48e1-9ffe-c7e806a41164;OFV;1.613578;43.006812;fr-sw;Foix-Varilhes - Fbus;;Foix-Varilhes - Fbus (open);https://static.data.gouv.fr/resources/offre-de-transports-urbain-communaute-dagglomeration-pays-foix-varilhes/20210125-092808/f-bus-2020-v4.zip;http://transport.data.gouv.fr/;43.006812,1.613578
+8c0dba6f-629d-49ad-bdbd-9c09a029d932;OTO;8.91224879702;44.8726999738965;it;it_torino;;Italia - Torino;https://transitfeeds.com/p/gruppo-torinese-trasporti/51/latest/download;http://www.5t.torino.it/;44.8726999738965,8.91224879702
+b8414de4-5694-4599-bf53-50fc3b0d24f1;OTT;-73.741407689368;45.5799184728107;ca-qc;ca-qc_atm_montreal;;Canada - Montréal;http://www.rtm.quebec/xdata/trains/google_transit.zip;https://rtm.quebec/fr/a-propos/donnees-ouvertes;45.5799184728107,-73.741407689368
+8c9c7050-fcb2-4e38-9215-d0201dcd3e55;NJB;-74.6962782878753;40.1288427465441;us-ny;us-ny_newjerseybus;;New York - New Jersey Bus;http://transitfeeds.com/p/nj-transit/409/latest/download;https://www.njtransit.com/;40.1288427465441,-74.6962782878753
+b8c52de8-fe18-4a1c-acde-a20d8754d090;OZO;-43.9650724488313;-19.8988373213386;br;br_BeloHorizonte;;Brazil - Belo Horizonte;https://ckan.pbh.gov.br/dataset/77764a7e-63fc-4111-ace3-fb7d3037953a/resource/f0fa78dc-74c3-49fa-8971-c310a76a07fa/download/gtfsfiles.zip;https://prefeitura.pbh.gov.br/bhtrans/informacoes/dados/dados-abertos;-19.8988373213386,-43.9650724488313
+91d564da-7a78-4b9c-ba88-3d53dc3cbe1a;SOE;2.253189;50.752122;fr-ne;Saint-Omer - Mouveo;;Saint-Omer - Mouveo (open);https://www.data.gouv.fr/fr/datasets/r/2461670d-974c-4e31-b677-2d14152f8a67;http://mouveo.ca-pso.fr/se-deplacer/plans-horaires/;50.752122,2.253189
+bab320c4-a740-4b9f-9cdb-a22b1aa1de54;WLI;1.260345;45.826707;fr-sw;Limoges - TCL;;Limoges - TCL (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_limoges_metropole-aggregated-gtfs.zip;https://www.stcl.fr/;45.826707,1.260345
+92c3d28d-38a8-4afc-8522-48b3de011904;OGI;-7.22895108900877;54.5427734117449;ie;ie_mcginley;;Ireland - Mcginley;https://www.transportforireland.ie/transitData/google_transit_mcginley.zip;http://www.transportforireland.ie/transitData/PT_Data.html;54.5427734117449,-7.22895108900877
+bae6476a-3db8-4375-8040-566360ec410d;OPG;-119.296491685484;44.6343080781058;us-or;us-or_peoplemover;;Oregon - People Mover;http://transitfeeds.com/p/people-mover-grant-county/475/latest/download;http://oregon-gtfs.com/;44.6343080781058,-119.296491685484
+937a90b7-6c14-4e2f-8c5f-29d6b7688eb4;ODY;-122.090524937868;45.3367625482523;us-or;us-or_sandy;;Washington - Saddy;http://transitfeeds.com/p/sandy-area-metro/480/latest/download;http://oregon-gtfs.com/;45.3367625482523,-122.090524937868
+bba745b7-f956-4ae9-b91b-7c54e67af53d;ORG;-122.128183439145;40.6708457835353;us-ca;us-ca_redding;;California - Redding;http://data.trilliumtransit.com/gtfs/redding-ca-us/redding-ca-us.zip;http://data.trilliumtransit.com/gtfs/redding-ca-us/;40.6708457835353,-122.128183439145
+939fddf3-c746-4080-ada4-903f2eb74c5c;OLP;-73.9874018394524;45.4427874409855;ca-qc;ca-qc_cit_presquile;;Canada - La Presquile;https://exo.quebec/xdata/citpi/google_transit.zip;https://exo.quebec/fr/a-propos/donnees-ouvertes;45.4427874409855,-73.9874018394524
+bd4c3935-0a93-47bf-8935-ce322904770f;ODK;9.5156;55.9397;dk;dk_denmark;;Denmark;https://transitfeeds.com/p/rejseplanen/705/latest/download;;55.9397,9.5156
+94f80dde-53f6-42bc-bf27-db70f69da326;OIK;-7.95463886468753;53.0249043712311;ie;ie_locallink;;Ireland - Local Link;https://www.transportforireland.ie/transitData/google_transit_locallink.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.0249043712311,-7.95463886468753
+c0bdbb9a-c472-48dd-9bb1-5e285ba2efa7;OGR;5.698614;45.152944;fr-se;Grenoble - TAG;;Grenoble - TAG (open);http://www.mobilites-m.fr/data/Horaires/SEM-GTFS.zip;https://www.tag.fr/;45.152944,5.698614
+9810c560-4cde-4c57-acec-ac218b597466;OCE;-122.887731255852;44.8345535067814;us-or;us-or_cascadeast;;Oregon - Cascad East;http://transitfeeds.com/p/cascades-east-transit/440/latest/download;http://oregon-gtfs.com/;44.8345535067814,-122.887731255852
+c3701285-78c7-4bbc-ba1f-d61ade030e4c;WCS;9.012893;42.039604;fr-se;corse_sud_gtfs;;Cars de Corse du Sud;https://www.data.gouv.fr/fr/datasets/r/60da183e-931d-4388-bf1b-155c35201bee;https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-cars-de-corse-du-sud/;42.039604,9.012893
+99ff7b49-97dc-4ebf-9ac9-7acf866c7643;OCV;2.89200436325538;49.2301029304;fr-ne;Crépy-en-Valois - Cypré;;Crépy-en-Valois - Cypré (open);http://exs.sismo2.cityway.fr/GTFS.aspx?key=SISMO&OperatorCode=SCOL_CREPY;https://www.oise-mobilite.fr/fr/part10/a-propos-de-nous/154;49.2301029304,2.89200436325538
+c3ad94a5-3646-4805-bea8-8b5111a139e4;OYU;-121.472814638255;39.0900880808905;us-ca;us-ca_yubasutter;;California - Yubasutter;http://data.trilliumtransit.com/gtfs/yubasutter-ca-us/yubasutter-ca-us.zip;http://data.trilliumtransit.com/gtfs/yubasutter-ca-us/;39.0900880808905,-121.472814638255
+9c7a92dd-91d7-42ca-8706-447ec6923d48;OUSNYCTT;-72.86481725754587;41.54392398786743;us-ny;us-ny_connecticuttransit_gtfs;;Connecticut Transit;https://www.cttransit.com/sites/default/files/gtfs/googlect_transit.zip;https://www.cttransit.com;41.54392398786743,-72.86481725754587
+c5e4d6a8-c5ee-4c06-8d78-6dfebfd3d0e5;OKF;-121.61014726844;42.3597382398514;us-or;us-or_basintransit;;Oregon - Basin Transit;http://transitfeeds.com/p/basin-transit-service/468/latest/download;http://oregon-gtfs.com/;42.3597382398514,-121.61014726844
+9de0b259-0c74-4dd4-a57d-6b25bc268ed0;ONE;-114.6104503963;34.8353249295096;us-ca;us-ca_needles;;California - Needles;http://data.trilliumtransit.com/gtfs/needles-ca-us/needles-ca-us.zip;http://data.trilliumtransit.com/gtfs/needles-ca-us/;34.8353249295096,-114.6104503963
+c7935af0-15a5-46bf-92ed-37d5121798bb;OVY;-122.826368071972;42.3191356265081;us-or;us-or_rockland;;Oregon - Rockland Valley Public;;http://oregon-gtfs.com/;42.3191356265081,-122.826368071972
+9f96c922-488b-48b7-b884-1aa6f17bcb30;OCU;7.68058968513944;44.5727826546365;it;it_cuneo;;Italia - Cuneo;http://opendata.5t.torino.it/gtfs/cuneo_it.zip;http://www.5t.torino.it/;44.5727826546365,7.68058968513944
+caafe7f5-c826-481f-ab3f-e1568b5e7c85;OJC;-123.313457081026;42.3942653080725;us-or;us-or_jodephinecounty;;Oregon - Jodephine County;http://transitfeeds.com/p/josephine-county-transit/469/latest/download;http://oregon-gtfs.com/;42.3942653080725,-123.313457081026
+a032a776-a8b5-4544-8ad9-8ec34a3533c2;E55;-1.475435;43.49331;fr-sw;gtfs_hegobus;;Pays Basque - Hegobus (open);https://www.data.gouv.fr/fr/datasets/r/01813b26-f723-4181-b6a9-e4d2b5597021;https://transport.data.gouv.fr;43.49331,-1.475435
+ce80e897-f9dc-4949-80b3-aeebdfad8a47;OIB;11.5646014810776;44.410518706107;it;it_bologna;;Italia - Bologna;https://padam-public-assets.s3-eu-west-1.amazonaws.com/bologna/gtfs/gommagtfsbo.zip;https://solweb.tper.it/web/tools/open-data/open-data.aspx;44.410518706107,11.5646014810776
+a4a66b09-6d45-4a79-bea9-eb524e161714;ODL;-96.8581261473526;32.8167016475338;us-tx;us-tx_dallas GTFS;;Dallas - DART;https://www.dart.org/transitdata/latest/google_transit.zip;http://www.dart.org/transitdata/legalnotices.asp;32.8167016475338,-96.8581261473526
+cf41262d-b681-4978-ae4e-c91b63a681fb;BCO;-73.8557390030325;40.7250396485721;us-ny;us-ny_busco;;New York - Busco;http://web.mta.info/developers/data/busco/google_transit.zip;http://www.mta.info/;40.7250396485721,-73.8557390030325
+a4d19623-2490-46e5-a9cc-2b0dec72184d;OYO;-119.61312873605;37.6508618104717;us-ca;us-ca_yosemite;;California - Yosemite;http://data.trilliumtransit.com/gtfs/yosemite-ca-us/yosemite-ca-us.zip;http://data.trilliumtransit.com/gtfs/yosemite-ca-us/;37.6508618104717,-119.61312873605
+cf70ad00-368d-4a7b-a694-a6163181aec6;OGP;0.333704;46.58551;fr-sw;Poitiers - Vitalis;;Poitiers - Vitalis (open);https://data.grandpoitiers.fr/explore/dataset/mobilite-arret-services-theoriques-bus-hiver/files/400d7da94eaacb5e52c612f8ac28e420/download/;https://data.grandpoitiers.fr/pages/accueil/;46.58551,0.333704
+a559a933-08b4-4d62-bad2-10ca297c6509;O12;2.6189273;44.2179747;fr-sw;aveyron_gtfs;;Occitanie - Aveyron;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/f5740ad02f5361a7b4dc0a5ba8550cac/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;44.2179747,2.6189273
+d20ffbdc-d950-4970-96ee-ed03008b3b17;OKV;-2.766866;47.682023;fr-nw;Vannes - Kiceo;;Vannes - Kicéo (open);https://ratpdev-mosaic-prod-bucket-raw.s3-eu-west-1.amazonaws.com/21/exports/1/gtfs.zip;https://transport.data.gouv.fr/;47.682023,-2.766866
+a5bcecb7-c67d-4473-b20e-b7b68bce6c29;OVM;19.5058;47.1611615;hu;hu_MAV;;MAV;https://www.mavcsoport.hu/gtfs/gtfsMavMenetrend.zip;https://www.mavcsoport.hu/en;47.1611615,19.5058
+d397dbe4-7dc1-42b1-bee3-71e61a6e5c09;ODU;-7.37169475630054;53.3276510227955;ie;ie_dualway;;Ireland - Dualway;https://www.transportforireland.ie/transitData/google_transit_dualway.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.3276510227955,-7.37169475630054
+a663cc40-330d-4f3b-8e63-caceca8b2fd3;COL;7.357999;48.079499;fr-ne;Colmar - Fluo;;Colmar - Trace (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=CAC;https://www.trace-colmar.fr/fr;48.079499,7.357999
+d788ce36-60dd-4b6a-83d9-fd5fe7d8a72e;O34;3.2583626;43.5912356;fr-se;Herault_gtfs;;Herault Transport;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/5220c926d7c1d76f52709ad9e9604fea/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;43.5912356,3.2583626
+a68cf47e-70c1-436e-80e5-7335a4106620;OLO;2.824971;49.381444;fr-ne;Compiègne - TIC;;Compiègne - TIC (open);http://exs.sismo2.cityway.fr/GTFS.aspx?key=SISMO&OperatorCode=TIC;http://exs.sismo2.cityway.fr/GTFS.aspx?key=SISMO&OperatorCode=TIC;49.381444,2.824971
+da41c966-5470-443f-a6d2-9be782343e6d;DOE;3.080464;50.367732;fr-ne;Douai - Eveole;;Douai - Eveole (open);https://www.data.gouv.fr/fr/datasets/r/99cf5e2f-87c2-4ff1-bc0d-32f04cc213ab;https://www.eveole.com/;50.367732,3.080464
+ad1c21f2-b0e0-487e-a1bb-2a872ea255dc;TXI;-1.475435;43.49331;fr-sw;Pays Basque - TXIKTXAK;;Pays Basque - TXIKTXAK (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_pays_basque-aggregated-gtfs.zip;https://www.txiktxak.fr/;43.49331,-1.475435
+da83d554-dd97-4d48-9fba-8681b08ea7e4;USW;;;uk;uk_SouthWest_gtfs;;UK - South West;https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/south_west/;;
+ad8a5e91-760f-4159-874f-7bd58b976f20;ONY;6.19333;48.67399;fr-ne;Nancy - Stan;;Nancy - Stan (open);https://carto.g-ny.org/data/stan/gtfs_stan.zip;https://www.reseau-stan.com/;48.67399,6.19333
+dad28675-99de-4432-894f-8191731285c9;OCX;-122.574046984301;45.3859429305003;us-or;us-or_cccexpress;;Oregon - CCCExpress Portland;http://transitfeeds.com/p/ccc-xpress/669/latest/download;http://oregon-gtfs.com/;45.3859429305003,-122.574046984301
+b1a74d88-a68b-4517-934a-7871c2a8b80a;TAS;0.616363;44.203142;fr-sw;Agen - Tempo Scolaire;;Agen - Tempo Scolaire (open);https://www.data.gouv.fr/fr/datasets/r/1f7c2e46-c8ec-4cb3-bb0f-9d165a588fec;http://transport.data.gouv.fr/;44.203142,0.616363
+dbf8bd84-4ce4-4d0e-91e8-75ebe8d8c8c2;OMO;-121.306010590702;37.6927414749589;us-ca;us-ca_modesto;;California - Modesto;http://data.trilliumtransit.com/gtfs/modesto-ca-us/modesto-ca-us.zip;http://data.trilliumtransit.com/gtfs/modesto-ca-us/;37.6927414749589,-121.306010590702
+b3aa645c-f5a7-42b3-ad45-ac6b4ce18e6a;WSA;0.6334;45.7442;fr-sw;Saintes - Buss;;Saintes - Buss (open);https://zenbus.net/gtfs/static/download.zip?dataset=buss-cdasaintes;https://transport.data.gouv.fr/;45.7442,0.6334
+dc3dbbb4-847e-4e30-8882-d4a8176eb573;OTS;-123.216827008044;42.1399380076193;us-or;us-or_klamath;;Oregon - Klamath;http://transitfeeds.com/p/southwest-point/482/latest/download;http://oregon-gtfs.com/;42.1399380076193,-123.216827008044
+b7d462f6-565e-4a40-988f-97cbf8270557;LSO;-9.07972;38.65182;pt;pt_lisbonne1;;Portugal  - Soflusa;http://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/14/gtfs_14.zip;https://www.transporlis.pt/Default.aspx?tabid=254;38.65182,-9.07972
+dcb0abf3-617c-4d0e-8f8d-d50e57da7dd0;OSG;-8.28863931500168;53.3035495177833;ie;ie_sro;;Ireland - SRO;https://www.transportforireland.ie/transitData/google_transit_sro.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.3035495177833,-8.28863931500168
+b9106ff4-74ad-4733-97d6-dd3fb0d83aca;LAH;25.65565;60.980432;fi;fi_lahti;;Finland - Lahti;;https://www.lsl.fi/;60.980432,25.65565
+e0468b95-d977-4d5d-875c-d01bc4169a80;O70;6.154502;47.619497;fr-ne;Haute-Saône - Mobigo;;Haute-Saône - Mobigo (open);https://exs.mobigo.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=UT70;https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/;47.619497,6.154502
+be055e0a-1f7f-48b9-b875-eebbfbdd1622;OSN;-98.4936282;29.4241219;us-tx;us-tx_San-Antonio_GTFS;;San-Antonio - VIA;http://www.viainfo.net/BusService/google_transit.zip;https://www.viainfo.net/;29.4241219,-98.4936282
+e0b31307-df09-4a07-b5bd-55ca48b1337a;DIJ;5.04148;47.322047;fr-ne;Dijon - Divia;;Dijon - Divia (open);https://data.explore.divia.fr/api/datasets/1.0/gtfs-divia-mobilites/attachments/gtfs_diviamobilites_current_zip;https://www.divia.fr/bus-tram;47.322047,5.04148
+c349ef39-f9ee-4f9e-ac57-6e50e6c3820b;OLI;3.033664;50.655949;fr-ne;Lille - Ilevia;;Lille - Ilevia (open);https://metropole-europeenne-de-lille.opendatasoft.com/api/datasets/1.0/transport_arret_transpole-point/alternative_exports/gtfszip/;https://metropole-europeenne-de-lille.opendatasoft.com/explore/dataset/transport_arret_transpole-point/export/;50.655949,3.033664
+e0fb9c33-1c7c-462b-9e22-c28b5078fe76;OGL;2.1486413;43.9250853;fr-sw;Grand Albigeois - Transport Urbains;;Grand Albigeois - Transport Urbains (open);https://www.data.gouv.fr/fr/datasets/r/eff42667-b36b-4334-bc44-6cf620f90cbf;https://www.libea-mobilites.fr/;43.9250853,2.1486413
+c444906e-1b01-432a-ac53-c3f14ffa1c81;ICB;-19.020835;64.963051;ic;ic_bus_gtfs;;Iceland - bus;http://opendata.straeto.is/data/gtfs/gtfs.zip;;64.963051,-19.020835
+e1907fb1-2675-4f6f-8d26-9faee471a8c6;OPU;-122.326987284329;47.5287029509496;us-wa;us-wa_soundtransit;;Washington - Sound Transit;http://developer.onebusaway.org/tmp/sound/gtfs/modified/40_gtfs.zip;http://www.soundtransit.org/Developer-resources/Data-downloads;47.5287029509496,-122.326987284329
+c62badfe-05a7-4185-82e3-fd512135f49c;OITFER;11.619787;44.838124;it;ferrara_gtfs;;Italia - Ferrara;;https://solweb.tper.it/web/tools/open-data/open-data.aspx;44.838124,11.619787
+e1ddf2f2-6ced-4257-8dfa-d733ee6f2a1c;MEP;3.95859;49.043645;fr-ne;Epernay - Mouvéo;;Epernay - Mouvéo (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=EPY;https://www.mouveobus.fr/;49.043645,3.95859
+c6782e51-a425-4c1c-ba32-33e498d74ca9;MEY;6.798208;47.510283;fr-ne;Montbéliard - Evolity (open);;Montbéliard - Evolity (open);;https://www.evolity.fr/;47.510283,6.798208
+e3215c13-d327-4482-98d8-ce15d41f8a78;OBA;-122.150622126367;37.7582559333405;us-ca;us-ca_bart;;California - Bart;http://bart.gov/dev/schedules/google_transit.zip;;37.7582559333405,-122.150622126367
+c76a3a6d-4592-4b24-aa07-a72dab72c0c2;D80;2.295753;49.894067;fr-ne;Réseau interurbain de la Somme;;Réseau interurbain de la Somme (open);;https://trans80.hautsdefrance.fr/;49.894067,2.295753
+e4a29ab9-ff98-4fa1-b799-cea096467a89;P72;0.199556;48.00611;fr-nw;Aleop - Sarthe;;Aleop - Sarthe (open);https://donnees.paysdelaloire.fr/data/pdl72.zip;https://data.paysdelaloire.fr;48.00611,0.199556
+cb886ff0-e0b4-43f2-8d60-26a2d2cde9a6;OWT;175.208483947316;-41.0208786288691;nz;nz_metlink;;New Zealand - Metlink;https://static.opendata.metlink.org.nz/v1/gtfs/full.zip;https://www.metlink.org.nz/customer-services/general-transit-file-specification/;-41.0208786288691,175.208483947316
+e50bf13a-2506-475b-9001-01fd893c3bf6;OHUSZM;16.6218;47.2307;hu;hu_szombathely_gtfs;;Hungary - Szombathely;http://pamszoft.hu/szombathely/gtfs.zip;http://pamszoft.hu;47.2307,16.6218
+cbaa2a77-9687-40a9-8cf6-2b378a35d615;DGL;4.85;45.75;fr-se;Lyon - TCL;;Lyon - TCL (open);https://download.data.grandlyon.com/files/rdata/tcl_sytral.tcltheorique/GTFS_TCL.ZIP;https://download.data.grandlyon.com;45.75,4.85
+e53cc15c-4ca6-429d-9ec5-3fc283c578bc;OLL;-122.899256998789;44.5088018053596;us-or;us-or_linnshuttle;;Oregon - Linn Shuttle;http://transitfeeds.com/p/linn-shuttle/471/latest/download;http://oregon-gtfs.com/;44.5088018053596,-122.899256998789
+ced5b002-cb0a-497e-879b-41537b818d77;OTW;-6.30700516442894;53.6558433339324;ie;ie_matthews;;Ireland - Matthews;https://www.transportforireland.ie/transitData/google_transit_matthews.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.6558433339324,-6.30700516442894
+e59ccc8a-7d6a-4f05-ac04-70a44751847f;OBG;4.38171234883903;50.8435084462602;be;be_mivb;;mivb;https://gtfs.irail.be/mivb/mivb-gtfs.zip;https://hello.irail.be/gtfs/;50.8435084462602,4.38171234883903
+d2d5bb7e-7561-4ba8-8d25-e9d7415ee206;TCA;-118.290064594245;33.8975315664127;us-ca;us-ca_torrance;;California - Torrance;https://transitfeeds.com/p/city-of-torrance/388/latest/download;http://www.torranceca.gov/24436.htm;33.8975315664127,-118.290064594245
+e895d02d-4756-40b9-b49e-d11b70397b8e;OAB;5.451542;43.530817;fr-se;Aix-en-Provence - Aix en Bus;;Aix-en-Provence - Aix en Bus (open);http://tsvc.pilote4.cityway.fr/api/Export/v1/GetExportedDataFile?ExportFormat=Gtfs&OperatorCode=AIXENBUS;https://www.aixenbus.fr;43.530817,5.451542
+d4b17da5-4339-44f4-9923-4d67d223508a;OIN;-6.53803785681888;53.7417408538895;ie;ie_collins;;Ireland - Collins Coaches;https://www.transportforireland.ie/transitData/google_transit_collins.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.7417408538895,-6.53803785681888
+e9c0a51f-09fa-4718-8d8a-5fa348ac6f6b;OMY;-6.37302658458001;52.4284795971133;ie;ie_mgray;;Ireland - McGray;https://www.transportforireland.ie/transitData/google_transit_mgray.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.4284795971133,-6.37302658458001
+d5295f31-c3b4-4fce-8528-726efdf76915;CAG;9.11552563049814;39.2361653061867;it;it_cagliari;;Italia - Cagliari;https://www.ctmcagliari.it/open_data/GTFS.zip;http://www.sardegnamobilita.it/opengovernment/opendata/;39.2361653061867,9.11552563049814
+eb3b528a-f335-44bc-bbda-a5d20f8fc9a5;OSV;-73.2972312317847;45.7743307055042;ca-qc;ca-qc_cit_sorel-varennes;;Canada - Sorel Varennes;https://exo.quebec/xdata/citsv/google_transit.zip;https://rtm.quebec/fr/a-propos/donnees-ouvertes;45.7743307055042,-73.2972312317847
+d52b3b5e-4129-415f-b61d-8a42ac96007c;VAG;0.16822;44.503309;fr-sw;Val de Garonne - Evalys;;Val de Garonne - Evalys (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_val_de_garonne-aggregated-gtfs.zip;https://evalys-mobilites.fr/;44.503309,0.16822
+ec20d83d-fd8c-44b5-896e-c12af322dc7d;OPQ;-2.4333;47.3333;fr-nw;Lila_presquile_gtfs;;Guérande - Lila Presqu'ile;https://app.mecatran.com/utw/ws/gtfsfeed/static/lilapresquile?apiKey=6e47605159405645285b43324167760b1e6b2161;https://transport.data.gouv.fr/datasets/lignes-arrets-et-horaires-de-transport-pour-cap-atlantique-lila-presquile-gtfs/;47.3333,-2.4333
+d6beec3d-3df8-4b52-8230-17ded30c570d;DN1;3.033664;50.655949;fr-ne;Département Nord - Périmètre 1;;Département Nord - Périmètre 1 (open);https://opendata.hautsdefrance.fr/sites/default/files/data/transport/RHDF_GTFS_COM_SCO_59_P1.zip;https://transports.hautsdefrance.fr;50.655949,3.033664
+ec785b87-dba8-4a77-90b4-4195b49ea30c;E08;-2.86060707108855;43.2125335120046;es;es_bizkaibus;;Spain - Bizkaibus;ftp://ftp.geo.euskadi.eus/cartografia/Transporte/Moveuskadi/Bizkaibus/google_transit.zip;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi;43.2125335120046,-2.86060707108855
+d946e0e3-c492-4c42-b4f8-cf9042f6f4f4;OPLLMZ;22.059032;53.17812;pl;pl_lomza_gtfs;;Lomza;https://mkuran.pl/gtfs/lomza.zip;https://mkuran.pl/gtfs/;53.17812,22.059032
+ed042601-1b23-4818-90af-419a60deb024;QUE;-73.8308026550577;40.7415350191996;demo;us-ny_queens;;New York - Queens;;http://www.mta.info/;40.7415350191996,-73.8308026550577
+dbc56950-345c-46f5-9ca9-2b814f3f2426;DSD;6.947732;48.287437;fr-ne;Saint-Dié-des-Vosges - Déobus;;Saint-Dié-des-Vosges - Déobus (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=DEOBUS;https://sylvia.saint-die-des-vosges.fr/;48.287437,6.947732
+edc19966-0f36-4752-accf-3c7f90edd860;WCF;9.012893;42.039604;fr-se;corse_chemins_fer_open_gtfs;;Chemins de fer de Corse;https://www.data.gouv.fr/fr/datasets/r/d7b518dc-bb7b-4c63-89ca-400f7dbc033d;https://www.data.corsica/explore/dataset/horaires-cfc-gtfs/information/;42.039604,9.012893
+dda399f6-40de-4b39-8905-4b4770ca4c75;OGD;18.6466;54.352;pl;Gdansk source;;Gdansk;https://mkuran.pl/feed/tristar/tristar-latest.zip;https://mkuran.pl/feed/tristar/;54.352,18.6466
+ee7b5b9d-d990-4536-9f5e-efd4b090935b;OKN;-7.64512344395021;53.2781584039058;ie;ie_kearns;;Ireland - Kearns;https://www.transportforireland.ie/transitData/google_transit_kearns.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.2781584039058,-7.64512344395021
+de5deecc-1972-4b30-8ad8-ae29df05ba0e;ODS;2.12052274349091;49.4370090626691;fr-ne;Oise - Atriom du Beauvaisis;;Oise - Atriom du Beauvaisis (open);http://exs.sismo2.cityway.fr/GTFS.aspx?key=SISMO&OperatorCode=CG60L1;https://www.oise-mobilite.fr/fr/part14/a-propos-de-nous/154;49.4370090626691,2.12052274349091
+f24b6b04-152d-46d9-bfc7-071dbc783158;ORR;-7.79858;52.952946;ie;ie_rryan;;Ireland - Robert Ryan;https://www.transportforireland.ie/transitData/google_transit_rryan.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.952946,-7.79858
+df9c3660-0e4a-4ed0-b418-cc89f1698049;OBB;-122.678811652564;45.5151190757922;us-or;us-or_bluestar;;Oregon - Blue Star;http://transitfeeds.com/p/blue-star-transportation/437/latest/download;http://oregon-gtfs.com/;45.5151190757922,-122.678811652564
+f2808eee-7328-44b0-96b9-25d9d2af27a0;E40;2.94867178395943;39.6083026577493;es;es_mallorca;;Spain - Mallorca;;https://www.tib.org/fr/web/ctm/cataleg-dades;39.6083026577493,2.94867178395943
+e02d1279-fbe9-4839-8ff4-308579344bd8;ODQ;2.376776;51.034368;fr-ne;Dunkerque - DK Bus;;Dunkerque - DK Bus (open);;https://www.dkbus.com/;51.034368,2.376776
+f4005cce-a72f-45a1-b54e-14ba7e06adb0;OMB;144.617192019215;-36.3604163391934;au;au_melbourne_gtfs;;Australia - Melbourne;;https://transitfeeds.com/p/ptv/497/latest/download;-36.3604163391934,144.617192019215
+e28b388a-ef2e-4a54-a1c4-589de305bbe8;OUC;5.139503;48.110977;fr-ne;Chaumont_Cmonbus_gtfs;;Chaumont - Cmonbus (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=CHT;https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cmonbus-communaute-dagglomeration-de-chaumont-du-bassin-nogentais-et-du-bassin-de-bologne-vignory-froncles-gtfs/;48.110977,5.139503
+f431a997-10fc-4653-bbbd-f664945ec3c7;O32;0.4502368;43.6366479;fr-sw;Gers_gtfs;;Occitanie - Gers;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/49ca2debb42af8259750a519abf1b6b1/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;43.6366479,0.4502368
+e53f10e6-34c7-4315-89d5-d6904f84a131;ITG;;;it;it_genoa_AMT_gtfs;;italia - Genoa;https://transitfeeds.com/p/amt-genova/1011/latest/download;;
+f975a447-b8cc-4d53-9af9-eb0bc101c5f7;OFN;-119.776193;36.753998;us-ca;us-ca_fresno;;California - Fresno;;https://gis4u.fresno.gov/fresnogis/;36.753998,-119.776193
+e69c275e-27ac-4f88-8d04-da35f645c327;OTE;-121.815563591457;40.290202775295;us-ca;us-ca_tehama;;California - Tehama;http://data.trilliumtransit.com/gtfs/tehama-ca-us/tehama-ca-us.zip;http://data.trilliumtransit.com/gtfs/tehama-ca-us/;40.290202775295,-121.815563591457
+fb49aea0-670e-4811-8b33-5110b22d53b7;OTB;146.031607035022;-41.1098763941724;au;au_tasmania_burnie;;Australia - Tasmania Burnie;http://www.metrotas.com.au/wp-content/uploads/transit/Burnie/google_transit.zip;http://www.metrotas.com.au/community/gtfs/;-41.1098763941724,146.031607035022
+e90a60fe-2b7d-49b0-b660-ade739372ed9;O89;3.570484;47.796019;fr-ne;Yonne - Mobigo;;Yonne - Mobigo (open);https://exs.mobigo.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=UT89;https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/;47.796019,3.570484
+fb4ea6c3-9378-4955-8e1a-4ca3fe071361;E26;-2.24428214098474;43.207458999386;es;es_guipuzkoana;;Spain - guipuzkoana;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/ATTG/lurraldebus_gipuzkoana/google_transit.zip;;43.207458999386,-2.24428214098474
+e9f368a5-00c1-4a01-9a55-691a7439eb43;AEC;1.21254;43.371036;fr-sw;Haute-Garonne - Arc-en-Ciel;;Haute-Garonne - Arc-en-Ciel (open);https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/files/aeb2d9fb313003d42c5b3f65fa938335/download/;https://data.laregion.fr/explore/dataset/fichiers-gtfs-de-la-region-occitanie/table/;43.371036,1.21254
+fe0c627d-bfb8-4946-bc9e-96257bb3b38d;F10;4.0744009;48.2973451;fr-ne;Réseau interurbain Aube - Fluo;;Réseau interurbain Aube - Fluo (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=AUBE;https://transport.data.gouv.fr;48.2973451,4.0744009
+e9f3e90e-52c7-4947-935c-334d51dce55f;E51;-16.5455344065473;28.3088766406121;es;es_titsa;;Spain - Titsa;http://www.titsa.com/Google_transit.zip;http://www.opendatacanarias.es/datos/dataset/metrotenerife-informacion-sobre-servicios-de-transporte-api-rest-y-ficheros-gtfs;28.3088766406121,-16.5455344065473
+ff8114b5-7df5-4efc-a212-5857ce9ac805;OYN;-0.96978;45.66465;fr-sw;Royan - Cara'bus;;Royan - Cara'bus (open);https://data.agglo-royan.fr/dataset/9b761974-a195-4e33-91b7-ecee3b368016/resource/d4915904-ebd0-43cf-9b35-fbfc04ce91fd/download/gtfs_20220825_01.zip;https://data.agglo-royan.fr;45.66465,-0.96978
+ea15e894-ec15-4c20-9243-389435148424;OM2;5.601991;43.173483;fr-se;La Ciotat - Ciotabus;;La Ciotat - Ciotabus (open);http://tsvc.pilote4.cityway.fr/api/Export/v1/GetExportedDataFile?ExportFormat=Gtfs&OperatorCode=CIOTABUS;http://opendata.regionpaca.fr/fileadmin/user_upload/tx_ausyopendata/licences/Licence-Ouverte-Open-Licence-ETALAB.pdf;43.173483,5.601991
+ghana-feed;accra;-0.2;5.55;gh;gh_accra;;Accra;https://github.com/AFDLab4Dev/AccraMobility/raw/master/GTFS/GTFS_Accra.zip;;5.55,-0.2
+ea2bac84-64a5-4931-bd26-6b388f9b7bcb;uks;-4.202646;56.490671;uk;UK_Scotland_gtfs;;UK - Scotland;https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/scotland/;;56.490671,-4.202646
+ea7c8abe-8774-488e-b901-7448c89cd202;ORI;-73.4869591588925;45.4389019324343;ca-qc;ca-qc_cit_richelain;;Canada - Le Richelain;https://exo.quebec/xdata/citlr/google_transit.zip;https://rtm.quebec/fr/a-propos/donnees-ouvertes;45.4389019324343,-73.4869591588925
+eb88dabe-c65a-4308-b3b6-f6cca67d3bf4;OESCRTM;-3.7037902;40.4167754;es;es_madrid_gtfs;;Madrid Metro CRTM;https://transitfeeds.com/p/consorcio-regional-de-transportes-de-madrid/742/latest/download;https://www.crtm.es;40.4167754,-3.7037902
+f127781c-3bc7-42e0-822e-88e03f63eefd;OLH;-117.78272;33.544852;us-ca;us-ca_lagunabeach;;California - Laguna Beach;http://data.trilliumtransit.com/gtfs/lagunabeach-ca-us/lagunabeach-ca-us.zip;http://data.trilliumtransit.com/gtfs/lagunabeach-ca-us/;33.544852,-117.78272
+f307fea8-9809-4c21-a106-e60a75ababa7;OPLRBN;18.546285;50.102174;pl;pl_rybnik_gtfs;;Rybnik;https://mkuran.pl/gtfs/rybnik.zip;https://mkuran.pl/gtfs/;50.102174,18.546285
+f6d5833d-c162-44cf-af78-3372500ef974;AST;0.156097;45.648775;fr-sw;Angoulême - STGA;;Angoulême - STGA (open);https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/ca_grand_angouleme-aggregated-gtfs.zip;https://www.stga.fr/;45.648775,0.156097
+f70f1ae5-b6cc-4ed7-9cbd-8fe073ee86b6;OCY;-123.482833492464;44.6161591114833;us-or;us-or_bentoncounty;;Oregon - Benton County;http://transitfeeds.com/p/benton-county-transportation/438/latest/download;http://oregon-gtfs.com/;44.6161591114833,-123.482833492464
+f8c667b1-230f-4149-aa54-4667d954d03c;ONC;-117.711848227362;45.2524327847819;us-or;us-or_norheast;;Oregon - Norheast;http://transitfeeds.com/p/northeast-oregon-public-transit/436/latest/download;http://www.neotransit.org/Baker/;45.2524327847819,-117.711848227362
+fe2db37b-4f8a-4726-b05c-bc2b01ca66f2;PAT;-74.0072906426934;40.7431114960857;us-ny;us-ny_path;;New York - PATH;http://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip;http://www.panynj.gov/;40.7431114960857,-74.0072906426934
+fe4ea07c-39b6-4a15-9a78-f3d1fa309a22;ONH;-123.461626660076;45.8489794097073;us-or;us-or_northwestpoint;;Oregon - Northwest Point;http://transitfeeds.com/p/northwest-point/474/latest/download;http://oregon-gtfs.com/;45.8489794097073,-123.461626660076
+ff4ffe9d-9293-4538-b4c6-61c7da91581a;OID;4.69595184171557;48.1409093865235;fr-ne;SNCF Ouibus Open Data;;SNCF Ouibus Open Data;https://bus-api.blablacar.com/gtfs.zip;https://bus-api.blablacar.com;48.1409093865235,4.69595184171557
+0188f19b-ba40-4215-9844-5f0134c6fef8;DTE;6.4667;43.5333;fr-se;Draguignan - Tedbus;;Draguignan - Tedbus (open);https://www.data.gouv.fr/fr/datasets/r/2bffb335-f293-4390-9dbd-f130d2c85319;https://tedbus.dracenie.com/;43.5333,6.4667
+019e1201-3324-473f-bc88-7abddef1ee74;OHP;-6.38751966686598;53.9904235882379;ie;ie_halpenny;;Ireland - Halpenny;https://www.transportforireland.ie/transitData/google_transit_halpenny.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.9904235882379,-6.38751966686598
+024cacde-3606-406f-8229-d8375755af4b;OAH;0.583164;43.646889;fr-sw;Auch - Alliance;;Auch - Alliance (open);https://zenbus.net/gtfs/static/download.zip?dataset=auch-alliance;https://www.data.gouv.fr/;43.646889,0.583164
+02d9a232-b172-4170-82fc-477c319e888b;OPLKMP1;20.2503;49.7225;pl;malopolska1_gtfs;;Koleje Malopolskie 1;https://przyjazdy.pl/latest/kmla.zip?navitia+kisio;https://www.gtfs.pl/;49.7225,20.2503
+095ab0b8-c3a0-450d-a051-092047c45c20;ODF;2.257274;44.556369;fr-sw;Decazeville - TUB;;Decazeville (open);https://www.data.gouv.fr/fr/datasets/r/0163a7b9-f4b1-4d9b-9af1-dcc0e583c3b4;https://transport.data.gouv.fr/datasets/transport-urbain-du-bassin/;44.556369,2.257274
+09a792af-b7a6-454c-bfd0-690d6ad20541;TAC;4.719371;49.773558;fr-ne;Charleville-Mézières - TAC;;Charleville-Mézières - TAC (open);https://exs.grandest2.cityway.fr/GTFS.aspx?Key=OPENDATA&OperatorCode=CHM;https://www.bustac.fr/;49.773558,4.719371
+0adabe1b-ce9a-4a76-b0a9-9141a7d48d50;OPLSZC;16.6994;53.7101;pl;szczecinek_gtfs;;Szczecinek;https://przyjazdy.pl/latest/szczecinek.zip?navitia+kisio;https://www.gtfs.pl/;53.7101,16.6994
+0b717a50-b6ad-4c4a-b338-9dda3823d2a7;OSY;3.7008219;43.4078758;fr-se;Sete - Sete agglopole Mobilite;;Sète - Sète agglopole Mobilite (open);https://api.opendata.agglopole.fr/v1/fichiers_plats/4/download;https://transport.data.gouv.fr/;43.4078758,3.7008219
+117471f1-038e-42ed-9f63-b769eaa4a6b3;E13;-2.9230955;43.2713965;es;es_artxanda;;Spain - Artxanda;ftp://ftp.geo.euskadi.eus/cartografia/Transporte/Moveuskadi/FunicularArtxanda/google_transit.zip;ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi;43.2713965,-2.9230955
+1316c221-9762-40a2-959b-94aaf7c14ba2;O39;5.558709;46.67243;fr-ne;Jura - Mobigo;;Jura - Mobigo (open);https://exs.mobigo.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=UT39;https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/;46.67243,5.558709
+1344e2a2-66db-4b92-b796-bb60b6a49b6f;OHU;-122.982296657878;44.7318630558216;us-ca;us-ca_hut-airport;;California - Hut Airpot;https://transitfeeds.com/p/hut-airport-shuttle/467/latest/download;http://oregon-gtfs.com/;44.7318630558216,-122.982296657878
+165f3ef8-6466-488a-a0fb-ce4b49cf4216;ONK;-8.28725433333333;52.9167296666667;ie;ie_citylink;;Ireland - Citylink;https://www.transportforireland.ie/transitData/google_transit_citylink.zip;http://www.transportforireland.ie/transitData/PT_Data.html;52.9167296666667,-8.28725433333333
+174764c2-5530-4347-95cf-f6506c5bb6f0;OPLCZW;19.1203;50.8118;pl;czestochowa_gtfs;;Czestochowa;https://przyjazdy.pl/latest/czestochowa.zip?navitia+kisio;https://www.gtfs.pl/;50.8118,19.1203
+197b5280-d693-462e-af01-5330f94b436d;WLV;6.492042;48.592138;fr-ne;luneville_open_gtfs;;Lunéo - Lunéville (open);;https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-luneo-petr-du-pays-du-lunevillois-gtfs/;48.592138,6.492042
+1c6b9bf8-0aff-4046-adc4-725633650461;ORB;152.858099728415;-27.2300561209765;au;au_brisbane;;Australia - Brisbane;https://gtfsrt.api.translink.com.au/GTFS/SEQ_GTFS.zip;http://translink.com.au/about-translink/open-data;-27.2300561209765,152.858099728415
+2034c260-e000-4021-a229-d2c1be44c369;OHH;9.012893;42.039604;fr-se;Cars_de_Haute_Corse_gtfs;;Cars de Haute-Corse;;https://www.corsicabus.org;42.039604,9.012893
+236a1818-8f46-4009-96da-0a5322e23d59;LCS;-9.184925;38.719904;pt;pt_lisbonne6;;Portugal - Carris;http://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/1/gtfs_1.zip;https://www.transporlis.pt/Default.aspx;38.719904,-9.184925
+2460b593-a518-4db2-8210-39ee326409dd;WMM;6.552764;49.098384;fr-ne;moselle-et-madon_gtfs;;TMM - Moselle et Madon;https://zenbus.net/gtfs/static/download.zip?dataset=moselle-et-madon;https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tmm-communaute-de-communes-moselle-et-madon/;49.098384,6.552764
+24ad19da-bb62-4594-ac98-697ca3f29990;OM3;5.3167765;43.280247;fr-se;Marseille - Frioul If Express;;Marseille - Frioul If Express (open);http://tsvc.pilote4.cityway.fr/api/Export/v1/GetExportedDataFile?ExportFormat=Gtfs&OperatorCode=FRIOUL;https://lebateau-frioul-if.fr/;43.280247,5.3167765
+280e56cc-ad0d-4046-b5e1-c30b8b0bb4ad;WSM;-2.025674;48.649337;fr-nw;Saint-Malo - MAT (open);;Saint-Malo - MAT (open);https://ratpdev-mosaic-prod-bucket-raw.s3-eu-west-1.amazonaws.com/77/exports/1/gtfs.zip;https://transport.data.gouv.fr/datasets/offre-transport-st-malo/;48.649337,-2.025674
+2832ea0d-77f5-47bc-9465-473552675940;SNA;-2.213835;47.273332;fr-nw;Saint-Nazaire - STRAN;;Saint-Nazaire - STRAN (open);https://app.mecatran.com/utw/ws/gtfsfeed/static/stran-merge?apiKey=2e6071036d276153761f0c090b4a45420e047612;https://data.agglo-carene.fr/;47.273332,-2.213835
+2866f4b4-265d-48a3-9571-f28e02930847;ORH;-124.103449592034;43.9846073772426;us-or;us-or_rhodyexpress;;Oregon - Rhody Express;http://transitfeeds.com/p/rhody-express/476/latest/download;http://oregon-gtfs.com/;43.9846073772426,-124.103449592034
+2bc4871d-d0e5-4eb8-aab4-e311072855a1;OBN;-116.863069413884;33.9222333819929;us-ca;us-ca_banning;;California - Banning;http://data.trilliumtransit.com/gtfs/banning-ca-us/banning-ca-us.zip;http://data.trilliumtransit.com/gtfs/banning-ca-us/;33.9222333819929,-116.863069413884
+2c5afe42-6c4d-4c08-bfea-c36a32256598;OUE;1.099971;49.443232;fr-nw;Rouen - Astuce;;Rouen - Astuce (Open);https://transport.data.gouv.fr/resources/64973/download;https://www.reseau-astuce.fr;49.443232,1.099971
+2e41adc4-eccf-438b-99b4-33c5dd6b1ed7;P44;1.56985260831569;47.2278085663496;fr-nw;Aleop - Loire-Atlantique;;Aleop - Loire-Atlantique (open);https://donnees.paysdelaloire.fr/data/pdl44.zip;https://data.paysdelaloire.fr;47.2278085663496,1.56985260831569
+300141c3-f4e3-4e2f-acdc-be81adda4e76;LRO;-9.1684224888504;38.8558265524435;pt;pt_lisbonne2;;Portugal - Rodoviaria de Lisboa;http://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/61/gtfs_61.zip;https://www.transporlis.pt/Default.aspx?tabid=254;38.8558265524435,-9.1684224888504
+307ba73a-619c-4bfd-a522-13391348b8d6;OPLBDGZ;18.0084378;53.1234804;pl;pl_bydgoszcz_gtfs;;Bydgoszcz;https://mkuran.pl/gtfs/bydgoszcz.zip;https://mkuran.pl/gtfs/bydgoszcz.zip;53.1234804,18.0084378
+32c4e662-176d-42f4-87e3-e43f98918c97;OAT;-71.0267579377859;42.1282528658578;us-ma;us-ma_bat;;Massachusetts - Bat;http://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip;https://www.massdot.state.ma.us/DevelopersData.aspx;42.1282528658578,-71.0267579377859
+3741512d-2941-42e9-8d30-51996a46b6d6;OAA;25.3852739816748;62.6437312091097;fi;fi_lautta;;Finland - Lautta;http://lautta.net/db/gtfs/gtfs.zip;http://lautta.net/;62.6437312091097,25.3852739816748
+3acff798-faf1-4201-9d48-72909daaa1e4;OOO;-6.32734553917236;53.3013193712266;ie;ie_mortons;;Ireland - Mortons;https://www.transportforireland.ie/transitData/google_transit_mortons.zip;http://www.transportforireland.ie/transitData/PT_Data.html;53.3013193712266,-6.32734553917236
+3ae9ef5e-cdf5-4551-91ec-ef7ee7f87518;ORSBEG;20.4612;44.8125;rs;rs_belgrade_gtfs;;Serbia - Belgrade;https://data.gov.rs/sr/datasets/r/729be9a1-7ed9-453d-9a3d-68fa30f07529;https://data.gov.rs/sr/datasets/gtfs/;44.8125,20.4612
+3b639b06-2bb0-48c4-8028-37a64b6323b2;OLC;-123.993945201331;44.7226638725259;us-or;us-or_lincolncounty;;Oregon - Lincoln County;http://transitfeeds.com/p/lincoln-county-transit/470/latest/download;http://oregon-gtfs.com/;44.7226638725259,-123.993945201331
+3c2f460b-3198-4c4f-8f04-b89becd56e4b;OAU;174.73645;-36.73777;nz;nz_auckland;;New Zealand - Auckland;https://cdn01.at.govt.nz/data/gtfs.zip;https://at.govt.nz/bus-train-ferry/more-services/google-transit-feed/;-36.73777,174.73645
+3d7119ba-c34f-45b9-a656-47a3f343b916;ORS;8.553613;40.727266;it;it_sassari;;Italia - Sassari;http://www.atpsassari.it/public/atpss-gtfs.zip;http://www.sardegnamobilita.it/opengovernment/opendata/;40.727266,8.553613
+3ff2a58f-c527-4788-82e4-7c0cbc268157;OFT;-8.27283445265629;54.4543641850184;ie;ie_fedateoranta;;Ireland - Fedateoranta;https://www.transportforireland.ie/transitData/google_transit_fedateoranta.zip;http://www.transportforireland.ie/transitData/PT_Data.html;54.4543641850184,-8.27283445265629
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
